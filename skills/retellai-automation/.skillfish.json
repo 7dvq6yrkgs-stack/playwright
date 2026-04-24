@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "retellai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/retellai-automation",
+  "branch": "master",
+  "sha": "c627fec8d3380d24e438dfefd9b452ebc648a3ab",
+  "source": "manual"
+}

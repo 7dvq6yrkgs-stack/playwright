@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "quickbooks-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/quickbooks-automation",
+  "branch": "master",
+  "sha": "d8624ae7ca4acba00ab3ab16a8c23c213fe569fe",
+  "source": "manual"
+}

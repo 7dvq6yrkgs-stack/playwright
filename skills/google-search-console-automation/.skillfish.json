@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-search-console-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/google-search-console-automation",
+  "branch": "master",
+  "sha": "3dbd359f43d742293a82526300ef51889d5eec86",
+  "source": "manual"
+}

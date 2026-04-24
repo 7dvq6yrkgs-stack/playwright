@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ninox-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ninox-automation",
+  "branch": "master",
+  "sha": "a6d197b70ebcf893bb5ebecb82ebd41f3a695794",
+  "source": "manual"
+}

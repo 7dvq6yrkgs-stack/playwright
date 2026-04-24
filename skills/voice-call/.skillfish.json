@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "voice-call",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/voice-call",
+  "branch": "main",
+  "sha": "354c069d3aa22a8d3657ff59246991178588103d",
+  "source": "manual"
+}

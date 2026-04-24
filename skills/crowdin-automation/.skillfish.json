@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crowdin-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/crowdin-automation",
+  "branch": "master",
+  "sha": "4ec3af0aa6e06f7eb9671e07746a871b67fa077e",
+  "source": "manual"
+}

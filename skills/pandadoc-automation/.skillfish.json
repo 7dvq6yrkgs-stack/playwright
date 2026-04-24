@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pandadoc-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/pandadoc-automation",
+  "branch": "master",
+  "sha": "30904481ced4522ac0040666f344c346a0922384",
+  "source": "manual"
+}

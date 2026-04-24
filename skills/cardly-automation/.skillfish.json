@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cardly-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cardly-automation",
+  "branch": "master",
+  "sha": "584790c844e91312e687d18d0bb9ff22945fb6bb",
+  "source": "manual"
+}

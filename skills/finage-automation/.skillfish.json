@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finage-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/finage-automation",
+  "branch": "master",
+  "sha": "63b762f8dac0907a4b5f27bf8df10a2d00e49c1f",
+  "source": "manual"
+}

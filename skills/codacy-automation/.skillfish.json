@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codacy-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/codacy-automation",
+  "branch": "master",
+  "sha": "71c8b799f6fbc785c57ac146d176af91c9c33e19",
+  "source": "manual"
+}

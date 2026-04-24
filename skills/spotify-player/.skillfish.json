@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spotify-player",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/spotify-player",
+  "branch": "main",
+  "sha": "0b580df2f2eacdc52b2c978e71c0620948fd9bba",
+  "source": "manual"
+}

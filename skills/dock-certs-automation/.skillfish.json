@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dock-certs-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dock-certs-automation",
+  "branch": "master",
+  "sha": "afd28818f0ec2348a42b4a89122f7ffe8cfab5c0",
+  "source": "manual"
+}

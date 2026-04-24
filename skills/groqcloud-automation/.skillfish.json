@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "groqcloud-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/groqcloud-automation",
+  "branch": "master",
+  "sha": "5784dc14a796a5a60b6ec81963ee337df52723f7",
+  "source": "manual"
+}

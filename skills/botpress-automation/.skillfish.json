@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "botpress-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/botpress-automation",
+  "branch": "master",
+  "sha": "de9226d109ae85ca0d1cefe2fd534a8c3b0aab22",
+  "source": "manual"
+}

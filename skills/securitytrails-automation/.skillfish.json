@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "securitytrails-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/securitytrails-automation",
+  "branch": "master",
+  "sha": "2adc8c52a7aa05a415aecc2ff6b36e5e1da3915e",
+  "source": "manual"
+}

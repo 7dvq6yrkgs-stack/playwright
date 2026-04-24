@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "weather",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/weather",
+  "branch": "main",
+  "sha": "92d7ded87d154c3d0cabc794ac131e051be3d621",
+  "source": "manual"
+}

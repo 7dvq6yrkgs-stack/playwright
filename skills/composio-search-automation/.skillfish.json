@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "composio-search-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/composio-search-automation",
+  "branch": "master",
+  "sha": "397f682705a0c8fb28ddcf96b91fd669eafc844c",
+  "source": "manual"
+}

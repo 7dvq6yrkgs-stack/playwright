@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boldsign-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/boldsign-automation",
+  "branch": "master",
+  "sha": "336f89e2dca96d7f9bba85dddfda905cdc829354",
+  "source": "manual"
+}

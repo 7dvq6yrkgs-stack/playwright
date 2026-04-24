@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "telnyx-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/telnyx-automation",
+  "branch": "master",
+  "sha": "12e07b99841a8818682e22d6db6e6c767e8166e4",
+  "source": "manual"
+}

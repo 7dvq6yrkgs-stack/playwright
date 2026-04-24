@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bookingmood-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bookingmood-automation",
+  "branch": "master",
+  "sha": "29ae8e16433e57eee78b6b7b56f955467ee3bcdb",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "felt-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/felt-automation",
+  "branch": "master",
+  "sha": "fa2c344b63bd757478f1ccb6212799b365c02568",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "optimizetests",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/optimizetests",
+  "branch": "main",
+  "sha": "97ec71169f69ba47d34b6a89a05a74b9c047d73c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "passslot-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/passslot-automation",
+  "branch": "master",
+  "sha": "87dca8f7bf2379be9d5bd091bff602aaf4ad8b6a",
+  "source": "manual"
+}

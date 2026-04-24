@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beeminder-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/beeminder-automation",
+  "branch": "master",
+  "sha": "39f9b2e7a80c5dacbeee207cf640bbda673d3716",
+  "source": "manual"
+}

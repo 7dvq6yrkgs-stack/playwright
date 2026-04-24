@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-devfleet",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/claude-devfleet",
+  "branch": "main",
+  "sha": "f42cdadb7e7ffc235fe7b408be3fdd6682aef38b",
+  "source": "manual"
+}

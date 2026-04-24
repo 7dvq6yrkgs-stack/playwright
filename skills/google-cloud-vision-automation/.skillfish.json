@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-cloud-vision-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/google-cloud-vision-automation",
+  "branch": "master",
+  "sha": "fb7bcdd12dab8b03199306cb3580779d212a8fad",
+  "source": "manual"
+}

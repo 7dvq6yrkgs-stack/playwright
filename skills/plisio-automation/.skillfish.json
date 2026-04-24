@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plisio-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/plisio-automation",
+  "branch": "master",
+  "sha": "cccf94776f6835a06df4fb886479d5210ae96b21",
+  "source": "manual"
+}

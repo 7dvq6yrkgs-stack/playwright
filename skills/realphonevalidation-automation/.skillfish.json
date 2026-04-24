@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "realphonevalidation-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/realphonevalidation-automation",
+  "branch": "master",
+  "sha": "18ceb60fac01c8c1081cba64fce931599b1fa7f4",
+  "source": "manual"
+}

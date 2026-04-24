@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workiom-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/workiom-automation",
+  "branch": "master",
+  "sha": "01a1cba42e14a40cf3e1e9a92e86e9879d6bf559",
+  "source": "manual"
+}

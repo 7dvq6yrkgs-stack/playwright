@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smugmug-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/smugmug-automation",
+  "branch": "master",
+  "sha": "44addf5f2ba6eac2a46939d03662aab6b92638f4",
+  "source": "manual"
+}

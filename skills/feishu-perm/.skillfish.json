@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feishu-perm",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/feishu/skills/feishu-perm",
+  "branch": "main",
+  "sha": "1e8f18ca1f5178e38e3f1db01bb1832459c25e92",
+  "source": "manual"
+}

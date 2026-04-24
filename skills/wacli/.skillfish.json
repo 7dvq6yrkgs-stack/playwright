@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wacli",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/wacli",
+  "branch": "main",
+  "sha": "7cc2c3a2faa55fc0af086ff0943c549826879d99",
+  "source": "manual"
+}

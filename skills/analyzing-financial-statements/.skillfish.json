@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-financial-statements",
+  "owner": "anthropics",
+  "repo": "claude-cookbooks",
+  "path": "skills/custom_skills/analyzing-financial-statements",
+  "branch": "main",
+  "sha": "9aa7c1f3b2182a88bd96748f1798a5d0332a8c76",
+  "source": "manual"
+}

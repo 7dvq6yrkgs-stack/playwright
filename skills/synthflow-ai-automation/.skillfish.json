@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "synthflow-ai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/synthflow-ai-automation",
+  "branch": "master",
+  "sha": "d9343ca62f3ec6390fd7dca2981c0f6ef706f63f",
+  "source": "manual"
+}

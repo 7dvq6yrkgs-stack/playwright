@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentql-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/agentql-automation",
+  "branch": "master",
+  "sha": "5f27371031eb3dcc8c041d5886a9dc5e234c10f5",
+  "source": "manual"
+}

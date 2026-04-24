@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qualaroo-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/qualaroo-automation",
+  "branch": "master",
+  "sha": "f62a0d3a64fb271fd80e96066f8cc61c19f112ea",
+  "source": "manual"
+}

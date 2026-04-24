@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fomo-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/fomo-automation",
+  "branch": "master",
+  "sha": "8250db85b6ba020fa781956e82dfb7dc3c67cca7",
+  "source": "manual"
+}

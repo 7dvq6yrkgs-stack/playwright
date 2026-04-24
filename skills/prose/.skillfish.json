@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prose",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/open-prose/skills/prose",
+  "branch": "main",
+  "sha": "60a4e4feddc157ac2f72e4c941870d80dc203e45",
+  "source": "manual"
+}

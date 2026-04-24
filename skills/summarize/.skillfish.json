@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "summarize",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/summarize",
+  "branch": "main",
+  "sha": "2a79836b7f755d5c1b623d8506a037cacfac0e27",
+  "source": "manual"
+}

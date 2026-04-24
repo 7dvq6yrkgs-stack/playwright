@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "baselinker-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/baselinker-automation",
+  "branch": "master",
+  "sha": "e2892afb689c38c7167a334b12c49e6bdf01cd75",
+  "source": "manual"
+}

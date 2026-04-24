@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clearout-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/clearout-automation",
+  "branch": "master",
+  "sha": "5e9264aee19ecf3d80be39b5785054bcf138a537",
+  "source": "manual"
+}

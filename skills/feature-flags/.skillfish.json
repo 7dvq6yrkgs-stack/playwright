@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feature-flags",
+  "owner": "facebook",
+  "repo": "react",
+  "path": ".claude/skills/feature-flags",
+  "branch": "main",
+  "sha": "cb99952e619cf3af3f79ff5d33cb411ea1393a05",
+  "source": "manual"
+}

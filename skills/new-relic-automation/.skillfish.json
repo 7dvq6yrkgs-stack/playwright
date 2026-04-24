@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "new-relic-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/new-relic-automation",
+  "branch": "master",
+  "sha": "11d31a52cbfb455053b8b6ae83fd0971aacd9c31",
+  "source": "manual"
+}

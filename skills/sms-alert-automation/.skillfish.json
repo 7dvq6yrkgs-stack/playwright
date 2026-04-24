@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sms-alert-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/sms-alert-automation",
+  "branch": "master",
+  "sha": "f8052cccbe966595fb34333f2e365796330dbcf3",
+  "source": "manual"
+}

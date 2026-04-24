@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "callingly-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/callingly-automation",
+  "branch": "master",
+  "sha": "cf801acb64d5c2ca02f303d24986409495977546",
+  "source": "manual"
+}

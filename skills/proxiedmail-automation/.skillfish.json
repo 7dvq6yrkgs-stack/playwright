@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "proxiedmail-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/proxiedmail-automation",
+  "branch": "master",
+  "sha": "6bdae1c4b410540d07d3ea7be9aba0eeed701134",
+  "source": "manual"
+}

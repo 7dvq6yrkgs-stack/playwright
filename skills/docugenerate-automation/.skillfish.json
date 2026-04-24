@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docugenerate-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/docugenerate-automation",
+  "branch": "master",
+  "sha": "3c450e52eb71c8326428b01cd54bb47f9b928ca9",
+  "source": "manual"
+}

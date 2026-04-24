@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "video-editing",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/video-editing",
+  "branch": "main",
+  "sha": "f3547fa77fe393f7dc68ad9bb110ba4969777d10",
+  "source": "manual"
+}

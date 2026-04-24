@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailcoach-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mailcoach-automation",
+  "branch": "master",
+  "sha": "242cdd05e338f39e1b4cdbac63c2e34b0a592a92",
+  "source": "manual"
+}

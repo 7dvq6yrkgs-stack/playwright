@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "toggl-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/toggl-automation",
+  "branch": "master",
+  "sha": "99cc619a3dabef521fc14cb0cd850ee9a5693ac3",
+  "source": "manual"
+}

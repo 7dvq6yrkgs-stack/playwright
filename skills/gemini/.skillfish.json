@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/gemini",
+  "branch": "main",
+  "sha": "bfb32c8114c6b3cda2968a1e98883578e89d9810",
+  "source": "manual"
+}

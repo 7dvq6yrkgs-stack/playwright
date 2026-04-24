@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "geocodio-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/geocodio-automation",
+  "branch": "master",
+  "sha": "a0f3b4cc9ace263dd410e1154126f8e731e07bec",
+  "source": "manual"
+}

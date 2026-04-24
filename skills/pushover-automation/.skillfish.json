@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pushover-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/pushover-automation",
+  "branch": "master",
+  "sha": "7b3ba177992596cfe2b8cfc256be4e7c77d143ec",
+  "source": "manual"
+}

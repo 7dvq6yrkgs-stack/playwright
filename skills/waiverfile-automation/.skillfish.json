@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "waiverfile-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/waiverfile-automation",
+  "branch": "master",
+  "sha": "f23cdd7a1340b2912599f0dfef606c1db1977dc9",
+  "source": "manual"
+}

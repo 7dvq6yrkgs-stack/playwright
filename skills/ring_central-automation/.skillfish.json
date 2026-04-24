@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ring_central-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ring_central-automation",
+  "branch": "master",
+  "sha": "0c6517ad28f8921b9e5ad5236f63b93d85b790e6",
+  "source": "manual"
+}

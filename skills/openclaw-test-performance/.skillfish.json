@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-test-performance",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-test-performance",
+  "branch": "main",
+  "sha": "987656a51e18e75873df8503ab83e20cb2d14e8f",
+  "source": "manual"
+}

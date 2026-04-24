@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/openai-automation",
+  "branch": "master",
+  "sha": "f07234379bd8c361cfaf51671690490ac69a6f5f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beaconchain-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/beaconchain-automation",
+  "branch": "master",
+  "sha": "b817ab26d31dbb1364c3597e0df656bc78c1d7b6",
+  "source": "manual"
+}

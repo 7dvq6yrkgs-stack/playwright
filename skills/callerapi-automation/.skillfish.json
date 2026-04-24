@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "callerapi-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/callerapi-automation",
+  "branch": "master",
+  "sha": "37d15aa9d9e954e0de67ef419289484e620c4865",
+  "source": "manual"
+}

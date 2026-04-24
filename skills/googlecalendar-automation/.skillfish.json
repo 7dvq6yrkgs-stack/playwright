@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlecalendar-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/googlecalendar-automation",
+  "branch": "master",
+  "sha": "dd2deab35588c88ff8c5606810343bbd19131940",
+  "source": "manual"
+}

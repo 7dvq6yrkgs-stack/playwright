@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docx",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "document-skills/docx",
+  "branch": "master",
+  "sha": "1e885d469740a354c45677fb3fa0ed66acba511d",
+  "source": "manual"
+}

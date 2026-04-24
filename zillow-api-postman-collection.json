@@ -1,0 +1,761 @@
+{
+  "info": {
+    "name": "Zillow API - Complete Collection",
+    "description": "Complete Zillow Real Estate API collection via RapidAPI. Covers property search, property details, Zestimates, market data, agent/broker info, mortgage rates, and more.\n\n## Setup\n1. Sign up at https://rapidapi.com\n2. Subscribe to the Zillow API (zillow-com1)\n3. Copy your RapidAPI key and set it in the `rapidapi_key` collection variable\n\n## Authentication\nAll requests use `X-RapidAPI-Key` header authentication via the `{{rapidapi_key}}` variable.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_postman_id": "zillow-api-complete-2026"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://zillow-com1.p.rapidapi.com",
+      "type": "string"
+    },
+    {
+      "key": "rapidapi_key",
+      "value": "YOUR_RAPIDAPI_KEY_HERE",
+      "type": "string"
+    },
+    {
+      "key": "rapidapi_host",
+      "value": "zillow-com1.p.rapidapi.com",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "🏠 Property Search",
+      "description": "Search for properties using various criteria including location, filters, coordinates, and Zillow URLs.",
+      "item": [
+        {
+          "name": "Search Properties by Location",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=houston, tx&status_type=ForSale&home_type=Houses&sort=Newest&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "houston, tx", "description": "City, state or ZIP code" },
+                { "key": "status_type", "value": "ForSale", "description": "ForSale, ForRent, RecentlySold" },
+                { "key": "home_type", "value": "Houses", "description": "Houses, Apartments, Condos, Townhomes, Multi-family, Manufactured, LotsLand" },
+                { "key": "sort", "value": "Newest", "description": "Newest, Price_High_Low, Price_Low_High, Beds, Baths, Square_Feet" },
+                { "key": "page", "value": "1", "description": "Page number for pagination" }
+              ]
+            },
+            "description": "Search properties by city/state or ZIP code with various filters including status, home type, and sorting."
+          }
+        },
+        {
+          "name": "Search Properties with Price Filter",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=san francisco, ca&status_type=ForSale&home_type=Houses&minPrice=500000&maxPrice=1500000&bedsMin=3&bathsMin=2&sqftMin=1500&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "san francisco, ca" },
+                { "key": "status_type", "value": "ForSale" },
+                { "key": "home_type", "value": "Houses" },
+                { "key": "minPrice", "value": "500000", "description": "Minimum price filter" },
+                { "key": "maxPrice", "value": "1500000", "description": "Maximum price filter" },
+                { "key": "bedsMin", "value": "3", "description": "Minimum bedrooms" },
+                { "key": "bathsMin", "value": "2", "description": "Minimum bathrooms" },
+                { "key": "sqftMin", "value": "1500", "description": "Minimum square footage" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search with advanced price, bedroom, bathroom, and square footage filters."
+          }
+        },
+        {
+          "name": "Search Rentals",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=new york, ny&status_type=ForRent&home_type=Apartments&rentMinPrice=1000&rentMaxPrice=3000&bedsMin=1&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "new york, ny" },
+                { "key": "status_type", "value": "ForRent" },
+                { "key": "home_type", "value": "Apartments" },
+                { "key": "rentMinPrice", "value": "1000", "description": "Minimum monthly rent" },
+                { "key": "rentMaxPrice", "value": "3000", "description": "Maximum monthly rent" },
+                { "key": "bedsMin", "value": "1" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search for rental properties with rent price filters."
+          }
+        },
+        {
+          "name": "Search Recently Sold",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=miami, fl&status_type=RecentlySold&daysOn=30&sort=Price_High_Low&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "miami, fl" },
+                { "key": "status_type", "value": "RecentlySold" },
+                { "key": "daysOn", "value": "30", "description": "Number of days since sold" },
+                { "key": "sort", "value": "Price_High_Low" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search for recently sold properties in a location."
+          }
+        },
+        {
+          "name": "Search by Zillow URL",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/searchByUrl?url=https://www.zillow.com/homes/for_sale/Houston,-TX_rb/&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["searchByUrl"],
+              "query": [
+                { "key": "url", "value": "https://www.zillow.com/homes/for_sale/Houston,-TX_rb/", "description": "Full Zillow search URL" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search properties using a Zillow.com search URL. Copy any search URL from Zillow and paste it here."
+          }
+        },
+        {
+          "name": "Search by Coordinates (Map Bounds)",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyByCoordinates?long=-122.431297&lat=37.773972&d=0.5&status_type=ForSale&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyByCoordinates"],
+              "query": [
+                { "key": "long", "value": "-122.431297", "description": "Longitude" },
+                { "key": "lat", "value": "37.773972", "description": "Latitude" },
+                { "key": "d", "value": "0.5", "description": "Radius in miles" },
+                { "key": "status_type", "value": "ForSale" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search properties near specific GPS coordinates within a given radius."
+          }
+        },
+        {
+          "name": "Search by MLS Number",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/searchByMls?mls=HAR-12345678",
+              "host": ["{{base_url}}"],
+              "path": ["searchByMls"],
+              "query": [
+                { "key": "mls", "value": "HAR-12345678", "description": "MLS listing number" }
+              ]
+            },
+            "description": "Look up a specific property by its MLS listing number."
+          }
+        }
+      ]
+    },
+    {
+      "name": "🏡 Property Details",
+      "description": "Get detailed information about specific properties including features, photos, price history, and tax records.",
+      "item": [
+        {
+          "name": "Get Property Details by ZPID",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/property?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["property"],
+              "query": [
+                { "key": "zpid", "value": "18440271", "description": "Zillow Property ID" }
+              ]
+            },
+            "description": "Get comprehensive property details using Zillow Property ID (ZPID). Returns bedrooms, bathrooms, square footage, year built, price, Zestimate, and more."
+          }
+        },
+        {
+          "name": "Get Property by Address",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyByAddress?address=1600 Pennsylvania Ave NW, Washington, DC 20500",
+              "host": ["{{base_url}}"],
+              "path": ["propertyByAddress"],
+              "query": [
+                { "key": "address", "value": "1600 Pennsylvania Ave NW, Washington, DC 20500", "description": "Full property address" }
+              ]
+            },
+            "description": "Get property details by providing a full street address."
+          }
+        },
+        {
+          "name": "Get Property Photos",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/images?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["images"],
+              "query": [
+                { "key": "zpid", "value": "18440271", "description": "Zillow Property ID" }
+              ]
+            },
+            "description": "Get all listing photos for a property."
+          }
+        },
+        {
+          "name": "Get Property Price History",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/priceHistory?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["priceHistory"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get the complete price history of a property including past sale prices, listed prices, and date changes."
+          }
+        },
+        {
+          "name": "Get Property Tax History",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/taxHistory?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["taxHistory"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get tax assessment history for a property."
+          }
+        },
+        {
+          "name": "Get Walk Score & Transit Score",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/walkAndTransitScore?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["walkAndTransitScore"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get Walk Score, Transit Score, and Bike Score for a property location."
+          }
+        },
+        {
+          "name": "Get Similar Properties (Comps)",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/similarProperty?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["similarProperty"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get comparable/similar properties near a given property (useful for CMA analysis)."
+          }
+        },
+        {
+          "name": "Get Nearby Properties",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/nearbyProperty?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["nearbyProperty"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get properties located near a specific property."
+          }
+        }
+      ]
+    },
+    {
+      "name": "💰 Zestimate & Valuations",
+      "description": "Get Zillow's automated home value estimates (Zestimates) and rental estimates.",
+      "item": [
+        {
+          "name": "Get Zestimate by ZPID",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/zestimate?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["zestimate"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get Zillow's estimated market value (Zestimate) for a property."
+          }
+        },
+        {
+          "name": "Get Zestimate History",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/zestimateHistory?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["zestimateHistory"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get historical Zestimate values over time to track property value trends."
+          }
+        },
+        {
+          "name": "Get Rent Estimate",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/rentEstimate?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["rentEstimate"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get Zillow's estimated monthly rent (Rent Zestimate) for a property."
+          }
+        }
+      ]
+    },
+    {
+      "name": "📊 Market & Location Data",
+      "description": "Neighborhood demographics, school ratings, nearby amenities, and location-based data.",
+      "item": [
+        {
+          "name": "Get Nearby Schools",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/nearbySchools?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["nearbySchools"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get nearby schools with ratings, distance, and grade levels for a property."
+          }
+        },
+        {
+          "name": "Get Location Suggestions (Autocomplete)",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/locationSuggestions?q=houston",
+              "host": ["{{base_url}}"],
+              "path": ["locationSuggestions"],
+              "query": [
+                { "key": "q", "value": "houston", "description": "Location search query for autocomplete" }
+              ]
+            },
+            "description": "Get location autocomplete suggestions. Useful for building search UIs."
+          }
+        },
+        {
+          "name": "Get Neighborhood Info",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/neighborhoodInfo?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["neighborhoodInfo"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get neighborhood information including demographics, home values, and community stats."
+          }
+        }
+      ]
+    },
+    {
+      "name": "🏢 Building & Multi-Unit",
+      "description": "Building-level data for apartments, condos, and multi-family properties.",
+      "item": [
+        {
+          "name": "Get Building Details",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/building?buildingId=p_bld2fghij",
+              "host": ["{{base_url}}"],
+              "path": ["building"],
+              "query": [
+                { "key": "buildingId", "value": "p_bld2fghij", "description": "Zillow building ID" }
+              ]
+            },
+            "description": "Get details about an apartment/condo building including units, amenities, and pricing."
+          }
+        },
+        {
+          "name": "Get Building Floor Plans",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/buildingFloorPlans?buildingId=p_bld2fghij",
+              "host": ["{{base_url}}"],
+              "path": ["buildingFloorPlans"],
+              "query": [
+                { "key": "buildingId", "value": "p_bld2fghij" }
+              ]
+            },
+            "description": "Get available floor plans for a building with pricing and dimensions."
+          }
+        }
+      ]
+    },
+    {
+      "name": "👤 Agent & Broker",
+      "description": "Find real estate agents and brokers, including their listings, reviews, and contact information.",
+      "item": [
+        {
+          "name": "Search Agents by Location",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/agentSearch?location=houston, tx&page=1&language=English&specialty=BuyerAgent",
+              "host": ["{{base_url}}"],
+              "path": ["agentSearch"],
+              "query": [
+                { "key": "location", "value": "houston, tx" },
+                { "key": "page", "value": "1" },
+                { "key": "language", "value": "English", "description": "Agent spoken language filter" },
+                { "key": "specialty", "value": "BuyerAgent", "description": "BuyerAgent, ListingAgent, Relocation, Foreclosure" }
+              ]
+            },
+            "description": "Search for real estate agents in a specific location with optional filters."
+          }
+        },
+        {
+          "name": "Get Agent Profile",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/agentProfile?username=johndoe",
+              "host": ["{{base_url}}"],
+              "path": ["agentProfile"],
+              "query": [
+                { "key": "username", "value": "johndoe", "description": "Agent's Zillow username/screen name" }
+              ]
+            },
+            "description": "Get detailed agent profile including bio, sales history, reviews, and active listings."
+          }
+        },
+        {
+          "name": "Get Agent's Active Listings",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/agentActiveListings?username=johndoe&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["agentActiveListings"],
+              "query": [
+                { "key": "username", "value": "johndoe" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Get all currently active listings for a specific agent."
+          }
+        },
+        {
+          "name": "Get Agent Reviews",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/agentReviews?username=johndoe&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["agentReviews"],
+              "query": [
+                { "key": "username", "value": "johndoe" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Get reviews and ratings for a specific real estate agent."
+          }
+        },
+        {
+          "name": "Get Agent's Past Sales",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/agentPastSales?username=johndoe&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["agentPastSales"],
+              "query": [
+                { "key": "username", "value": "johndoe" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Get past sales history for a specific agent."
+          }
+        }
+      ]
+    },
+    {
+      "name": "💵 Mortgage & Financial",
+      "description": "Mortgage rates, payment calculators, and financial data.",
+      "item": [
+        {
+          "name": "Get Current Mortgage Rates",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/mortgageRates",
+              "host": ["{{base_url}}"],
+              "path": ["mortgageRates"]
+            },
+            "description": "Get current national average mortgage rates for 30-year fixed, 15-year fixed, and 5/1 ARM loans."
+          }
+        },
+        {
+          "name": "Calculate Monthly Payment",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/monthlyPayment?zpid=18440271&downPayment=50000",
+              "host": ["{{base_url}}"],
+              "path": ["monthlyPayment"],
+              "query": [
+                { "key": "zpid", "value": "18440271" },
+                { "key": "downPayment", "value": "50000", "description": "Down payment amount in dollars" }
+              ]
+            },
+            "description": "Calculate estimated monthly mortgage payment for a property including principal, interest, taxes, and insurance."
+          }
+        }
+      ]
+    },
+    {
+      "name": "📋 Listing Details",
+      "description": "Specific listing information including open houses and listing agent details.",
+      "item": [
+        {
+          "name": "Get What Zillow Owners Say",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/whatOwnersLove?zpid=18440271",
+              "host": ["{{base_url}}"],
+              "path": ["whatOwnersLove"],
+              "query": [
+                { "key": "zpid", "value": "18440271" }
+              ]
+            },
+            "description": "Get 'What I Love' comments from property owners on Zillow."
+          }
+        },
+        {
+          "name": "Get Open Houses",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=austin, tx&status_type=ForSale&isOpenHousesOnly=true&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "austin, tx" },
+                { "key": "status_type", "value": "ForSale" },
+                { "key": "isOpenHousesOnly", "value": "true", "description": "Filter to only show properties with upcoming open houses" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Find properties with upcoming open houses in a location."
+          }
+        },
+        {
+          "name": "Search Pre-Foreclosures",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=las vegas, nv&status_type=ForSale&isPreForeclosureOnly=true&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "las vegas, nv" },
+                { "key": "status_type", "value": "ForSale" },
+                { "key": "isPreForeclosureOnly", "value": "true" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search for pre-foreclosure properties in a location."
+          }
+        },
+        {
+          "name": "Search New Construction",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "X-RapidAPI-Key", "value": "{{rapidapi_key}}" },
+              { "key": "X-RapidAPI-Host", "value": "{{rapidapi_host}}" }
+            ],
+            "url": {
+              "raw": "{{base_url}}/propertyExtendedSearch?location=dallas, tx&status_type=ForSale&isNewConstruction=true&page=1",
+              "host": ["{{base_url}}"],
+              "path": ["propertyExtendedSearch"],
+              "query": [
+                { "key": "location", "value": "dallas, tx" },
+                { "key": "status_type", "value": "ForSale" },
+                { "key": "isNewConstruction", "value": "true" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Search for new construction homes in a location."
+          }
+        }
+      ]
+    }
+  ]
+}

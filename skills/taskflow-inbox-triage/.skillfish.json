@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "taskflow-inbox-triage",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/taskflow-inbox-triage",
+  "branch": "main",
+  "sha": "893fa3c87ea34675de1f0034f79e385239b3b25a",
+  "source": "manual"
+}

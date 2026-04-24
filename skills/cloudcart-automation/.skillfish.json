@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudcart-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudcart-automation",
+  "branch": "master",
+  "sha": "befa90af63f8f6126fbb35e82107e0aec1f9950a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openai-whisper",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/openai-whisper",
+  "branch": "main",
+  "sha": "4c2ef59ee642fd267ef3c8f899805d41df86b74e",
+  "source": "manual"
+}

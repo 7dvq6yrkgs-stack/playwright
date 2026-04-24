@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudflare-automation",
+  "branch": "master",
+  "sha": "8993fed3cbcf9b4e0703a328dccdb9c6285cabcd",
+  "source": "manual"
+}

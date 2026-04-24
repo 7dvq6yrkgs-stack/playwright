@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gosquared-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gosquared-automation",
+  "branch": "master",
+  "sha": "5444ac325cf86339a84c7840613ff92863bf174f",
+  "source": "manual"
+}

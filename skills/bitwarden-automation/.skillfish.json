@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bitwarden-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bitwarden-automation",
+  "branch": "master",
+  "sha": "b13d0ed44966be5e47fb9fa8195bbda9745c35d1",
+  "source": "manual"
+}

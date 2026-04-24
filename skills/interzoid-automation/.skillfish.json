@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "interzoid-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/interzoid-automation",
+  "branch": "master",
+  "sha": "3c05899519806cec5cb6f96ad03d89ccca38f285",
+  "source": "manual"
+}

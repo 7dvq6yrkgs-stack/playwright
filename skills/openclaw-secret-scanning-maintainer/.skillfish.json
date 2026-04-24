@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-secret-scanning-maintainer",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-secret-scanning-maintainer",
+  "branch": "main",
+  "sha": "57a17b696947a389566a5e50ad30f8c838c6d78a",
+  "source": "manual"
+}

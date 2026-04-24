@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "centralstationcrm-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/centralstationcrm-automation",
+  "branch": "master",
+  "sha": "836d1ba90c15b712052bbb788d3ad1ef322f89d6",
+  "source": "manual"
+}

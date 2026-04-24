@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tavily",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/tavily/skills/tavily",
+  "branch": "main",
+  "sha": "d73081ff73487931236dcac7e3bcbd04cd2847f7",
+  "source": "manual"
+}

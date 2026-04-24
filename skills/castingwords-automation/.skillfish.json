@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "castingwords-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/castingwords-automation",
+  "branch": "master",
+  "sha": "654e74955a394903a10aaad9ae1b2aace9113229",
+  "source": "manual"
+}

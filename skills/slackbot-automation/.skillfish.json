@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slackbot-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/slackbot-automation",
+  "branch": "master",
+  "sha": "d425d014eb5ffda7bb2a9192f43b07bfb0d681aa",
+  "source": "manual"
+}

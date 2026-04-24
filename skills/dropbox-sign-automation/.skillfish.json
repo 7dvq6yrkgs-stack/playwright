@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dropbox-sign-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dropbox-sign-automation",
+  "branch": "master",
+  "sha": "2809e2917a4667c2ace0cfc9e47734e24783c03b",
+  "source": "manual"
+}

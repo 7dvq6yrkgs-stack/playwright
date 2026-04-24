@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gemini-automation",
+  "branch": "master",
+  "sha": "b49b7e21dd107e2e06a6566dc5d5405844f90dea",
+  "source": "manual"
+}

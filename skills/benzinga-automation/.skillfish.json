@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "benzinga-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/benzinga-automation",
+  "branch": "master",
+  "sha": "d455304362e9eb01323417df29f866eaf3865273",
+  "source": "manual"
+}

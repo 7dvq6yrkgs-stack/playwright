@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "healthcheck",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/healthcheck",
+  "branch": "main",
+  "sha": "5582aa49acc8ad1fb5f89508c94705c806dbfcca",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qqbot-channel",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/qqbot/skills/qqbot-channel",
+  "branch": "main",
+  "sha": "4928d93a03b36bef79a259851624fb1a09435f97",
+  "source": "manual"
+}

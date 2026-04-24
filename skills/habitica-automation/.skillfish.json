@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "habitica-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/habitica-automation",
+  "branch": "master",
+  "sha": "a330c71f94c0b9c2d0b642a5af85c3fbd57d5a73",
+  "source": "manual"
+}

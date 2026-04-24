@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test",
+  "owner": "facebook",
+  "repo": "react",
+  "path": ".claude/skills/test",
+  "branch": "main",
+  "sha": "d5d39aec3e804968c53c08a658e410387e508660",
+  "source": "manual"
+}

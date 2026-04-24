@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cookbook-audit",
+  "owner": "anthropics",
+  "repo": "claude-cookbooks",
+  "path": ".claude/skills/cookbook-audit",
+  "branch": "main",
+  "sha": "c722e85fd09963f877c9edb616e456cccb28963d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextjs-turbopack",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/nextjs-turbopack",
+  "branch": "main",
+  "sha": "6da362ccd92e03ee73b01912ea623baaeb78cd86",
+  "source": "manual"
+}

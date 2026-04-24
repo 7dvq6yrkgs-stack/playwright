@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-sort",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/agent-sort",
+  "branch": "main",
+  "sha": "9a457a951962fb2a8e400ac7eb5f0dd1ed2c26e9",
+  "source": "manual"
+}

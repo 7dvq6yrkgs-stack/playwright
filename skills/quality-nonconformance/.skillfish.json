@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "quality-nonconformance",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/quality-nonconformance",
+  "branch": "main",
+  "sha": "e9efcb87223cc5c65f446b7e409c617ba6c7a282",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kaleido-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/kaleido-automation",
+  "branch": "master",
+  "sha": "8ff1de0d393b1ce63eba515623eca248a80009c4",
+  "source": "manual"
+}

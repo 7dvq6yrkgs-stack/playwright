@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nano-nets-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/nano-nets-automation",
+  "branch": "master",
+  "sha": "e213832a85a99ddee93153dd8b6984a5a7221129",
+  "source": "manual"
+}

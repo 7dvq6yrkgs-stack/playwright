@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho_invoice-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/zoho_invoice-automation",
+  "branch": "master",
+  "sha": "b5c37808352275e6dfba1fde90d22a67729d326d",
+  "source": "manual"
+}

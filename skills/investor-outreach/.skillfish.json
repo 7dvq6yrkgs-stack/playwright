@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "investor-outreach",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/investor-outreach",
+  "branch": "main",
+  "sha": "45fda73a376b51dc15d177ebf8b537c7e54dcea4",
+  "source": "manual"
+}

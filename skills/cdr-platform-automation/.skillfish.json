@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cdr-platform-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cdr-platform-automation",
+  "branch": "master",
+  "sha": "ba598dfe7fef3eb4b914282f973bbfa737e8ade7",
+  "source": "manual"
+}

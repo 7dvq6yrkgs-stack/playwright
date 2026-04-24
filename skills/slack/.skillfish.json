@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slack",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/slack",
+  "branch": "main",
+  "sha": "c0f8de4f71c86bef7b0fa3f555132d3c66664472",
+  "source": "manual"
+}

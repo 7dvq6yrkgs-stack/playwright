@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docupost-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/docupost-automation",
+  "branch": "master",
+  "sha": "72d34308e98f3beff66c2859d4f4578ea94ea045",
+  "source": "manual"
+}

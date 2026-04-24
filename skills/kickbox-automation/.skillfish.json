@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kickbox-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/kickbox-automation",
+  "branch": "master",
+  "sha": "749b5d9db700d169bce3869f11b328f4b1241426",
+  "source": "manual"
+}

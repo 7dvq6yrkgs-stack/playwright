@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "diffbot-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/diffbot-automation",
+  "branch": "master",
+  "sha": "f64476b3b114afced911fec409a624fd9009ceb7",
+  "source": "manual"
+}

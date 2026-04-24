@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-pr-maintainer",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-pr-maintainer",
+  "branch": "main",
+  "sha": "6fd0550cd991454a5edf2b089a44936aa9214994",
+  "source": "manual"
+}

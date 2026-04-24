@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qqbot-remind",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/qqbot/skills/qqbot-remind",
+  "branch": "main",
+  "sha": "6396fa02b5fad406e6fda435ca734de20a37f849",
+  "source": "manual"
+}

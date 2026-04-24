@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "poptin-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/poptin-automation",
+  "branch": "master",
+  "sha": "2b0bc1d45d8a26d6ce20257a5305cc32b0bf701f",
+  "source": "manual"
+}

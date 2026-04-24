@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emailoctopus-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/emailoctopus-automation",
+  "branch": "master",
+  "sha": "b851e35f42dbb5f74822d13d18327b79ebc0323b",
+  "source": "manual"
+}

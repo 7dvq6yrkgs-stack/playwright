@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smtp2go-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/smtp2go-automation",
+  "branch": "master",
+  "sha": "4c4bd3842c921edb2b24599fe805a8cd9c0770ba",
+  "source": "manual"
+}

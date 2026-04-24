@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrapingbee-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/scrapingbee-automation",
+  "branch": "master",
+  "sha": "31e50d4f225f118ff31f65a6f075e501d8598c2d",
+  "source": "manual"
+}

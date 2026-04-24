@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bouncer-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bouncer-automation",
+  "branch": "master",
+  "sha": "a7589c60a3b321bf753ebabd24ccd76f31075282",
+  "source": "manual"
+}

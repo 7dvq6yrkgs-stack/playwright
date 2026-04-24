@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "givebutter-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/givebutter-automation",
+  "branch": "master",
+  "sha": "e5b7500700bc475f95c795e138ae0f0b7f52fca6",
+  "source": "manual"
+}

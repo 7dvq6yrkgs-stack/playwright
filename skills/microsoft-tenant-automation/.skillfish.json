@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-tenant-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/microsoft-tenant-automation",
+  "branch": "master",
+  "sha": "6fc141a18d8204da87f32540c8b82156ab49f76d",
+  "source": "manual"
+}

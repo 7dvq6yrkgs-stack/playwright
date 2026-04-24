@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "globalping-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/globalping-automation",
+  "branch": "master",
+  "sha": "518df6f2744812ef8620ea9c776dbea068f65cdb",
+  "source": "manual"
+}

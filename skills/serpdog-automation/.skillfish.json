@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serpdog-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/serpdog-automation",
+  "branch": "master",
+  "sha": "89fa15ae3779eba370d8d90101356342c53f0a02",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dialpad-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dialpad-automation",
+  "branch": "master",
+  "sha": "5be6e86d74f110cd6134885963238b7403cff51c",
+  "source": "manual"
+}

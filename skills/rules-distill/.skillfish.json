@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rules-distill",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/rules-distill",
+  "branch": "main",
+  "sha": "7cec530006ee05518cad432b4d5131c19bba0225",
+  "source": "manual"
+}

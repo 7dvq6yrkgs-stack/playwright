@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "alpha-vantage-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/alpha-vantage-automation",
+  "branch": "master",
+  "sha": "d10a43e61595a0db8c50782ed424f82f1a11a4cb",
+  "source": "manual"
+}

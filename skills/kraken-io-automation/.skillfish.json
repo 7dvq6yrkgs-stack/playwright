@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kraken-io-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/kraken-io-automation",
+  "branch": "master",
+  "sha": "ad13d981a066d8d2e73f506096ca3faeb61ae3f1",
+  "source": "manual"
+}

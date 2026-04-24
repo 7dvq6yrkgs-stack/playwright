@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "modelry-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/modelry-automation",
+  "branch": "master",
+  "sha": "6d5bc5a60a21a892bcbef2ea9f0fac6af86dc0ed",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "omnisend-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/omnisend-automation",
+  "branch": "master",
+  "sha": "eb19733ae823e9cb1f1739227ebd5a8b2843838a",
+  "source": "manual"
+}

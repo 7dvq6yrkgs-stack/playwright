@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-eval",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/agent-eval",
+  "branch": "main",
+  "sha": "adc47bd9d9834a1f46a756e74faa9a49294f1f9d",
+  "source": "manual"
+}

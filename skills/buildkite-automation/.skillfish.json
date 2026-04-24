@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "buildkite-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/buildkite-automation",
+  "branch": "master",
+  "sha": "5f24ac183f11e063d0e2a983d525528fdbc4a9bf",
+  "source": "manual"
+}

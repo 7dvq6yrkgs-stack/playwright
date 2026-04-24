@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feishu-doc",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/feishu/skills/feishu-doc",
+  "branch": "main",
+  "sha": "17e3803c0b68bb0efab7758904a68f599214b4e4",
+  "source": "manual"
+}

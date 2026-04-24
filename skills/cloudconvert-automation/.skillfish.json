@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudconvert-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudconvert-automation",
+  "branch": "master",
+  "sha": "c754afa50cb722a989e86c9d158a98d71b793257",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bigml-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bigml-automation",
+  "branch": "master",
+  "sha": "b5a39c72aba920e7ee82e01fb1169d58b7147fa9",
+  "source": "manual"
+}

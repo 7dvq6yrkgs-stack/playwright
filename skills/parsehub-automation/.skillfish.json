@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parsehub-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/parsehub-automation",
+  "branch": "master",
+  "sha": "1b0e1ce842a7b775a73f6822dcc60ab0fb71a63f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pipeline-crm-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/pipeline-crm-automation",
+  "branch": "master",
+  "sha": "8be427bcd11e1cc02c3103c4cf7af3b6cb22f15f",
+  "source": "manual"
+}

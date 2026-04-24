@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "missive-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/missive-automation",
+  "branch": "master",
+  "sha": "19d43af590c94feecd32b2eb588ad05defa75a26",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bitquery-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bitquery-automation",
+  "branch": "master",
+  "sha": "948694694069611d4dbcf5f5b6665cb51c5d57bb",
+  "source": "manual"
+}

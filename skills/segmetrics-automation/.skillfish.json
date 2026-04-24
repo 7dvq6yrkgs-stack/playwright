@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "segmetrics-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/segmetrics-automation",
+  "branch": "master",
+  "sha": "ed1bf4fb03610466f04c7a76192fe74459b25408",
+  "source": "manual"
+}

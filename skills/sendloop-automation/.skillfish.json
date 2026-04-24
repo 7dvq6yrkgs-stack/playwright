@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendloop-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/sendloop-automation",
+  "branch": "master",
+  "sha": "586777484e76f485312db5ef339d7e1dc4d8fdd5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "remote-retrieval-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/remote-retrieval-automation",
+  "branch": "master",
+  "sha": "5409340acf4936511acb6103d981fd67340e5d70",
+  "source": "manual"
+}

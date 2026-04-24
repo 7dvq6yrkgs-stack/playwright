@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "btcpay-server-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/btcpay-server-automation",
+  "branch": "master",
+  "sha": "0dc80023b9861e32ba6beeb1ba08cf9cbd6ae260",
+  "source": "manual"
+}

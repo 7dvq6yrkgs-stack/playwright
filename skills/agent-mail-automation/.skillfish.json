@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-mail-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/agent-mail-automation",
+  "branch": "master",
+  "sha": "996889f0041fb23e4a4b2c65f237c1963d43f539",
+  "source": "manual"
+}

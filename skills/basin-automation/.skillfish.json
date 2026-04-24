@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "basin-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/basin-automation",
+  "branch": "master",
+  "sha": "770d37ae5ad7f48db0c25e9e934a5d63066eb2ba",
+  "source": "manual"
+}

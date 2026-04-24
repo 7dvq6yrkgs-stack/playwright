@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-review",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/security-review",
+  "branch": "main",
+  "sha": "97969cfd1ad6f95fa9b6560e78f84263dd1b618a",
+  "source": "manual"
+}

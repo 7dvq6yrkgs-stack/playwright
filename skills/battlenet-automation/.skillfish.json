@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "battlenet-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/battlenet-automation",
+  "branch": "master",
+  "sha": "643127831b941720f60192dc128d104a8379ac5e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browserless-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/browserless-automation",
+  "branch": "master",
+  "sha": "abda8912a51d066b8fea157856f83294b21b5723",
+  "source": "manual"
+}

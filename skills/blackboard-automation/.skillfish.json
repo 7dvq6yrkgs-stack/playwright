@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blackboard-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/blackboard-automation",
+  "branch": "master",
+  "sha": "b900282b49d7d9ac36e9ef4b12fdefb1c092f36e",
+  "source": "manual"
+}

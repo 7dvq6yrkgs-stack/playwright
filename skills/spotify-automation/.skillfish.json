@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spotify-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/spotify-automation",
+  "branch": "master",
+  "sha": "4c8cb8746fd98921b0d9fc0a92ae6633150dfc61",
+  "source": "manual"
+}

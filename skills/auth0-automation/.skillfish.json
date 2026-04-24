@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auth0-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/auth0-automation",
+  "branch": "master",
+  "sha": "a2c11c629bc18b99036ce58e874a7a68be6f61fc",
+  "source": "manual"
+}

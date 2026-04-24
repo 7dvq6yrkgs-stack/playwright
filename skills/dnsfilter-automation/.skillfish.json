@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dnsfilter-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dnsfilter-automation",
+  "branch": "master",
+  "sha": "efbd7cbc08101856a08a9f39d96172e17bbb1f5d",
+  "source": "manual"
+}

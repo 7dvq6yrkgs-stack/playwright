@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "minerstat-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/minerstat-automation",
+  "branch": "master",
+  "sha": "50c6185c87ded3ec42eff4e88459f989d0700f77",
+  "source": "manual"
+}

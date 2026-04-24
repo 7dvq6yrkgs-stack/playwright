@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workable-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/workable-automation",
+  "branch": "master",
+  "sha": "cb11d9b488952f00d019fcd1f53f44acf683726c",
+  "source": "manual"
+}

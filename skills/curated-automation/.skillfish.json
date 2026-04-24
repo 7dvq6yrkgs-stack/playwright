@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "curated-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/curated-automation",
+  "branch": "master",
+  "sha": "60bab6913e8916eddfe3affbdeaa7fb24d3dc52c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pushbullet-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/pushbullet-automation",
+  "branch": "master",
+  "sha": "b674d28de73618ab588a478a8f05396aa3ffb495",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sonoscli",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/sonoscli",
+  "branch": "main",
+  "sha": "0ced671c5a9e7b6003f907132c82801d9e1aa76a",
+  "source": "manual"
+}

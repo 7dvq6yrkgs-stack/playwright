@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-triage",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/security-triage",
+  "branch": "main",
+  "sha": "e9189f524597a3330f83909c5e242ee70b8b5021",
+  "source": "manual"
+}

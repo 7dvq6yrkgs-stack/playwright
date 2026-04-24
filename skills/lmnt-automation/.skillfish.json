@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lmnt-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/lmnt-automation",
+  "branch": "master",
+  "sha": "96019563fe7ca8bff2ae9e75aa33cde9fc292778",
+  "source": "manual"
+}

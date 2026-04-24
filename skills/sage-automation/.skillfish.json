@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sage-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/sage-automation",
+  "branch": "master",
+  "sha": "208b3cbdea708639149d4366ba9975e7783c4e1f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "datarobot-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/datarobot-automation",
+  "branch": "master",
+  "sha": "769c6d027cb09337df21ed1bda18b562cdbc345b",
+  "source": "manual"
+}

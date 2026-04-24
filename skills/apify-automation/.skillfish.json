@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apify-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/apify-automation",
+  "branch": "master",
+  "sha": "1310cd61918d675afd14f56aa5dd0725c995b844",
+  "source": "manual"
+}

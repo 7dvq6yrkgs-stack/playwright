@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convertapi-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/convertapi-automation",
+  "branch": "master",
+  "sha": "fe91358fe40b4a416ebdf65c0e76a8182e833720",
+  "source": "manual"
+}

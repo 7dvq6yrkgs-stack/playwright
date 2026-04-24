@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gifgrep",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/gifgrep",
+  "branch": "main",
+  "sha": "9428c5ca8c54ded50470b6827aae42d5fe29429d",
+  "source": "manual"
+}

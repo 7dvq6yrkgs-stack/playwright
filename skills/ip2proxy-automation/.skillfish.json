@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ip2proxy-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ip2proxy-automation",
+  "branch": "master",
+  "sha": "52d25acfcc1eb5d3b78f0007cfdd1e22f62baeab",
+  "source": "manual"
+}

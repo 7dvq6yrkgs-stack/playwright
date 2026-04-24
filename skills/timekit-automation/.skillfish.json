@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "timekit-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/timekit-automation",
+  "branch": "master",
+  "sha": "f2ed12b3c697bd2552839ac580021f2c0911f68e",
+  "source": "manual"
+}

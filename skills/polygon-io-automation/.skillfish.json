@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "polygon-io-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/polygon-io-automation",
+  "branch": "master",
+  "sha": "fbe55ed7c844d648178a46d86910ed8ca6c91854",
+  "source": "manual"
+}

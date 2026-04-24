@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pytorch-patterns",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/pytorch-patterns",
+  "branch": "main",
+  "sha": "86db3dca7fdc59139df4090240c94161b7673421",
+  "source": "manual"
+}

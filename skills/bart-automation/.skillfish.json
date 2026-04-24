@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bart-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bart-automation",
+  "branch": "master",
+  "sha": "7a99ae0380da7e2287db69fa3bd777768903868d",
+  "source": "manual"
+}

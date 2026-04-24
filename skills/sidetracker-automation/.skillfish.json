@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sidetracker-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/sidetracker-automation",
+  "branch": "master",
+  "sha": "e4cdd0b8d0b5ea9c1b2ed83a92b0de8036677148",
+  "source": "manual"
+}

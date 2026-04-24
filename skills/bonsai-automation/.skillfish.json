@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bonsai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bonsai-automation",
+  "branch": "master",
+  "sha": "6f08ea77e578079d367a6ab7d426d91376f30c53",
+  "source": "manual"
+}

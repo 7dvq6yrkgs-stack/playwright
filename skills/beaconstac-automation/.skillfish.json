@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beaconstac-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/beaconstac-automation",
+  "branch": "master",
+  "sha": "5ecfdf3c9fe3a6642445d0824bdded0b139bddbc",
+  "source": "manual"
+}

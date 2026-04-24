@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "virustotal-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/virustotal-automation",
+  "branch": "master",
+  "sha": "8cd42066d9a6098fa15101e3b84a2da86814c55f",
+  "source": "manual"
+}

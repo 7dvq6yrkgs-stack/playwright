@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlebigquery-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/googlebigquery-automation",
+  "branch": "master",
+  "sha": "19cbd86ae3eb9f997b3a2716f63e4eb7b5f44099",
+  "source": "manual"
+}

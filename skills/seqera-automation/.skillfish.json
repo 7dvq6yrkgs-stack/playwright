@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seqera-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/seqera-automation",
+  "branch": "master",
+  "sha": "3fdcdce8f415c09464e6806af6d218a5f52cf8d4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailcheck-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mailcheck-automation",
+  "branch": "master",
+  "sha": "39cbb2c2b996402901050c6618004ed24be8971c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tag-duplicate-prs-issues",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/tag-duplicate-prs-issues",
+  "branch": "main",
+  "sha": "4f3d0985081c45c716ce6020693432a1aa1babd1",
+  "source": "manual"
+}

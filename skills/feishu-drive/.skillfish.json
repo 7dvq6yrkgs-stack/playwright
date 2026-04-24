@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feishu-drive",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/feishu/skills/feishu-drive",
+  "branch": "main",
+  "sha": "feeb8c38d00c64c9ab843f8655c0ea5ca59d4a74",
+  "source": "manual"
+}

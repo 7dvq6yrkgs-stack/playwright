@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supadata-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/supadata-automation",
+  "branch": "master",
+  "sha": "4f93fac9a3acbdd5ace8b81885dceebb60f14c25",
+  "source": "manual"
+}

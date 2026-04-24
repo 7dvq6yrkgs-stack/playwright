@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bestbuy-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bestbuy-automation",
+  "branch": "master",
+  "sha": "98ae08bd1d8d211d79c51bbe3b1564ffd0441ea4",
+  "source": "manual"
+}

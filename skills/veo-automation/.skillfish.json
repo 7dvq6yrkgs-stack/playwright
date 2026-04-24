@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "veo-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/veo-automation",
+  "branch": "master",
+  "sha": "ba44cbcf4a1287370bd752c7acd1db9abd0668ca",
+  "source": "manual"
+}

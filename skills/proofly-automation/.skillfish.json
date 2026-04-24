@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "proofly-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/proofly-automation",
+  "branch": "master",
+  "sha": "58d8449fe03dcedc3b1f5fb075a1093e63eb7da9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lemlist-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/lemlist-automation",
+  "branch": "master",
+  "sha": "b3766228c8e4325f38c6b2316f1bf526c2213ee4",
+  "source": "manual"
+}

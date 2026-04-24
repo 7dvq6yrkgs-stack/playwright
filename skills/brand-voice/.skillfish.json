@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brand-voice",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/brand-voice",
+  "branch": "main",
+  "sha": "222da7cb18272f6af6139c27a2c6db90e57cafab",
+  "source": "manual"
+}

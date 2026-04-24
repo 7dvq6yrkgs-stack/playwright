@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "membervault-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/membervault-automation",
+  "branch": "master",
+  "sha": "9ada12808bdbf02cdcee2511d7e0c915fd9144d2",
+  "source": "manual"
+}

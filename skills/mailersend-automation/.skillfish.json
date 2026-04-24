@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailersend-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mailersend-automation",
+  "branch": "master",
+  "sha": "ff52f9c8e0275f32eac1432054b998c39a00fc59",
+  "source": "manual"
+}

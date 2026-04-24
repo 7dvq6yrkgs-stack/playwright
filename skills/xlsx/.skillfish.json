@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "xlsx",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "document-skills/xlsx",
+  "branch": "master",
+  "sha": "489906b7d9057e0c371e21467e1a9f96f40be387",
+  "source": "manual"
+}

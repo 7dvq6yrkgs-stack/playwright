@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eightctl",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/eightctl",
+  "branch": "main",
+  "sha": "d8a2db8fb54fc3f4ae2640a8841b14f56bc16cea",
+  "source": "manual"
+}

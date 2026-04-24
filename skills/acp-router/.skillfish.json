@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "acp-router",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/acpx/skills/acp-router",
+  "branch": "main",
+  "sha": "cec3d55f7a5e71399aa9742a20585d31dcd2ea91",
+  "source": "manual"
+}

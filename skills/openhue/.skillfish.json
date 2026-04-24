@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openhue",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/openhue",
+  "branch": "main",
+  "sha": "3cca6ee7c2a964d6a3807883eede29a765f45948",
+  "source": "manual"
+}

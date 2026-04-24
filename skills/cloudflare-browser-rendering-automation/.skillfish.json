@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-browser-rendering-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudflare-browser-rendering-automation",
+  "branch": "master",
+  "sha": "7da39ad1bd6840892766287edcd7878e1a6625db",
+  "source": "manual"
+}

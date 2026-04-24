@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prerender-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/prerender-automation",
+  "branch": "master",
+  "sha": "c0e7d3e0e52cc1d81cad4556672577ad68fe16fa",
+  "source": "manual"
+}

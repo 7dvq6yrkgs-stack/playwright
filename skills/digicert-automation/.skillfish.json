@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "digicert-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/digicert-automation",
+  "branch": "master",
+  "sha": "4532cdd589404a2720413e36fd0e03bf47afb650",
+  "source": "manual"
+}

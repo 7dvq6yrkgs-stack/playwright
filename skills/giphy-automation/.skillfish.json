@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "giphy-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/giphy-automation",
+  "branch": "master",
+  "sha": "fd312442d3d9d775332557908a7f117e14726670",
+  "source": "manual"
+}

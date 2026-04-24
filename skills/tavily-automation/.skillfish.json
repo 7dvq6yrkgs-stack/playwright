@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tavily-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/tavily-automation",
+  "branch": "master",
+  "sha": "d26e6092026fe13346fe22ffa5508dabed4a7e9d",
+  "source": "manual"
+}

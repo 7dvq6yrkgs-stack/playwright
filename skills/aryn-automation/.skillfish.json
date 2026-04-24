@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aryn-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/aryn-automation",
+  "branch": "master",
+  "sha": "d80dfa7918180f528c65d4f11191d0450e661439",
+  "source": "manual"
+}

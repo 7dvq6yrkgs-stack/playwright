@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "twitch-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/twitch-automation",
+  "branch": "master",
+  "sha": "d1ae1b17ba0f508125a981ce559c0be825810a5d",
+  "source": "manual"
+}

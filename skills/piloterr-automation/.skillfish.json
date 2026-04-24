@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "piloterr-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/piloterr-automation",
+  "branch": "master",
+  "sha": "e4edb8e60a35f891d595eb3c31ef867d895ce638",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-maps-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/google-maps-automation",
+  "branch": "master",
+  "sha": "d727798236caba9ba9da5657ca071aa24c06652c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plankton-code-quality",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/plankton-code-quality",
+  "branch": "main",
+  "sha": "a9d0b7b21e098d3af0b501f682f1d0a7fb743f55",
+  "source": "manual"
+}

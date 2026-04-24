@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clickhouse-io",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/ja-JP/skills/clickhouse-io",
+  "branch": "main",
+  "sha": "82f0a4cb8cffcd737a41ebe56ee567239757a501",
+  "source": "manual"
+}

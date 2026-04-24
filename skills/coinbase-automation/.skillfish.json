@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coinbase-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/coinbase-automation",
+  "branch": "master",
+  "sha": "091f8502c069c8c4b6b6e31c8f0fd7b8513be51b",
+  "source": "manual"
+}

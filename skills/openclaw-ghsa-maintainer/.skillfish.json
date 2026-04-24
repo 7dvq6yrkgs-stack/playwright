@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-ghsa-maintainer",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-ghsa-maintainer",
+  "branch": "main",
+  "sha": "53f52ab0e2c17021648755f95b7609f395bfb03b",
+  "source": "manual"
+}

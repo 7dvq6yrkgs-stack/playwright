@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "alchemy-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/alchemy-automation",
+  "branch": "master",
+  "sha": "5293e13d513d6955c43d7b65b28d30b79dfa6c3b",
+  "source": "manual"
+}

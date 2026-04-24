@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boloforms-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/boloforms-automation",
+  "branch": "master",
+  "sha": "61b442ea559ceefa0bbf226ada233a293ab44885",
+  "source": "manual"
+}

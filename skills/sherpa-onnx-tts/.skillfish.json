@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sherpa-onnx-tts",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/sherpa-onnx-tts",
+  "branch": "main",
+  "sha": "0f827d22074aa0ce3dc2bfd130a46500f6dac85c",
+  "source": "manual"
+}

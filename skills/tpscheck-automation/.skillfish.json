@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tpscheck-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/tpscheck-automation",
+  "branch": "master",
+  "sha": "d5861020c021d495090c6cc02a2d3066fc9447fc",
+  "source": "manual"
+}

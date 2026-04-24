@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrapfly-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/scrapfly-automation",
+  "branch": "master",
+  "sha": "192d428e4a693af4ae76a0fc0ae77e39fdd8fe6f",
+  "source": "manual"
+}

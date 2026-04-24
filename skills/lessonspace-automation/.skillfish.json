@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lessonspace-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/lessonspace-automation",
+  "branch": "master",
+  "sha": "9cc24e6068ec303ceca4d6aaaeb0e9404288f82d",
+  "source": "manual"
+}

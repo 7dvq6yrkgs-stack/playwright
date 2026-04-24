@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "platerecognizer-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/platerecognizer-automation",
+  "branch": "master",
+  "sha": "5d8ec906a3614daa0776cb848a4e58c9c5932d51",
+  "source": "manual"
+}

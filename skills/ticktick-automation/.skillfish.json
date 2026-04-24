@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ticktick-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ticktick-automation",
+  "branch": "master",
+  "sha": "f99eff3b386f10a4143bb9714284b7ce91f32702",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "placid-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/placid-automation",
+  "branch": "master",
+  "sha": "8509c6a145861e9494742f2f91c1d66ed1401117",
+  "source": "manual"
+}

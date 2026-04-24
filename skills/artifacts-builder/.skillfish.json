@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "artifacts-builder",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "artifacts-builder",
+  "branch": "master",
+  "sha": "f89c02f23fbb7c5077ab960f46bdb6a3817d6fc2",
+  "source": "manual"
+}

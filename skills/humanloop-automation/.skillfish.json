@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "humanloop-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/humanloop-automation",
+  "branch": "master",
+  "sha": "43c80e1f305bbce74d0cc0a58c1d7ff5a534e079",
+  "source": "manual"
+}

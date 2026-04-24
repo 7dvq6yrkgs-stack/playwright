@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailbluster-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mailbluster-automation",
+  "branch": "master",
+  "sha": "7e52c5da26b3ff28728417464a452eaf803cc39e",
+  "source": "manual"
+}

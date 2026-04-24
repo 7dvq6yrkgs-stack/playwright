@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "flow",
+  "owner": "facebook",
+  "repo": "react",
+  "path": ".claude/skills/flow",
+  "branch": "main",
+  "sha": "76fbb451cd7005d35cbdefec9f2e33a3a6727730",
+  "source": "manual"
+}

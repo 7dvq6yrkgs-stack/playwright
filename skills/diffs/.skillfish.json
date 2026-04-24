@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "diffs",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/diffs/skills/diffs",
+  "branch": "main",
+  "sha": "d57c6cc751ca4726391e892f9eae4d6f9efeea57",
+  "source": "manual"
+}

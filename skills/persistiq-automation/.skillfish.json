@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "persistiq-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/persistiq-automation",
+  "branch": "master",
+  "sha": "ff4b2642e267dcdae6d8e04bfb7d4acc815f9a30",
+  "source": "manual"
+}

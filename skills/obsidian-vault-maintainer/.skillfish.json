@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "obsidian-vault-maintainer",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/memory-wiki/skills/obsidian-vault-maintainer",
+  "branch": "main",
+  "sha": "242e057cd155caf48001bf55b7edbdeb9d658b91",
+  "source": "manual"
+}

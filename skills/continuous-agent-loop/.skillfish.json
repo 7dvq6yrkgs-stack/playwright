@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "continuous-agent-loop",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/continuous-agent-loop",
+  "branch": "main",
+  "sha": "cb4040fe8d5fb5b86f824311b2b0e31e92718fd1",
+  "source": "manual"
+}

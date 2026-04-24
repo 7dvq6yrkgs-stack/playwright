@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "e2e-testing",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/e2e-testing",
+  "branch": "main",
+  "sha": "9637451eea2d36dd803c10ba4049a21f15fa59cf",
+  "source": "manual"
+}

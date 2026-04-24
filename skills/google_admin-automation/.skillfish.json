@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google_admin-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/google_admin-automation",
+  "branch": "master",
+  "sha": "d3fac784b0158f780185baa178a05052ebc8bf28",
+  "source": "manual"
+}

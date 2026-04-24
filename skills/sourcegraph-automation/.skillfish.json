@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sourcegraph-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/sourcegraph-automation",
+  "branch": "master",
+  "sha": "e4170a43379dd093665bf98fe8c3a5bfcb5529f3",
+  "source": "manual"
+}

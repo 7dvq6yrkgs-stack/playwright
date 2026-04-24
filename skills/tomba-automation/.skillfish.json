@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tomba-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/tomba-automation",
+  "branch": "master",
+  "sha": "43d4457428091e2534f528ed7b3faaafb48746da",
+  "source": "manual"
+}

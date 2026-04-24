@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ticketmaster-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ticketmaster-automation",
+  "branch": "master",
+  "sha": "17e105955a6fa43f8c01900873fc098db52cdd18",
+  "source": "manual"
+}

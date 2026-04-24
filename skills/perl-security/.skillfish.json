@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "perl-security",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/zh-CN/skills/perl-security",
+  "branch": "main",
+  "sha": "724324b4b9e7863ec798ef69b50f37363d171164",
+  "source": "manual"
+}

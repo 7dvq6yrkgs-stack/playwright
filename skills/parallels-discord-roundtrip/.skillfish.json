@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parallels-discord-roundtrip",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/parallels-discord-roundtrip",
+  "branch": "main",
+  "sha": "a9f2ca24af6cb45cfda9318a2896642e6cb6921f",
+  "source": "manual"
+}

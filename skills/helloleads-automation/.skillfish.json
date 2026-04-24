@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helloleads-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/helloleads-automation",
+  "branch": "master",
+  "sha": "42d8ed9033c9f7b87dd9d31a3e494c6c4fc97272",
+  "source": "manual"
+}

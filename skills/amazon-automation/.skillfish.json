@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "amazon-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/amazon-automation",
+  "branch": "master",
+  "sha": "32ec74a5c35a699903d5b44638c2046508e414d8",
+  "source": "manual"
+}

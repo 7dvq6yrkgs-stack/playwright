@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "autobound-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/autobound-automation",
+  "branch": "master",
+  "sha": "26f88a1c36a065cf7c61e93247e36e29fb448b03",
+  "source": "manual"
+}

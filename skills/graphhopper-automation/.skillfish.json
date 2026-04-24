@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "graphhopper-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/graphhopper-automation",
+  "branch": "master",
+  "sha": "35bd820283078e41ee798120ce90e5416596159a",
+  "source": "manual"
+}

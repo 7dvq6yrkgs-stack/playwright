@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gladia-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gladia-automation",
+  "branch": "master",
+  "sha": "fd27d220d20c143db876e43bc5c24b5d46c4b09a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "listennotes-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/listennotes-automation",
+  "branch": "master",
+  "sha": "7c6046e07cd3c421bed5f64da697f9dcd68b352f",
+  "source": "manual"
+}

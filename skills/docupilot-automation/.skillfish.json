@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docupilot-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/docupilot-automation",
+  "branch": "master",
+  "sha": "c74bbf057a061230e640a5539a359e3065062013",
+  "source": "manual"
+}

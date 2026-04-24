@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serpapi-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/serpapi-automation",
+  "branch": "master",
+  "sha": "ea409f6b7869fa710465d880b263ac61f2137ebe",
+  "source": "manual"
+}

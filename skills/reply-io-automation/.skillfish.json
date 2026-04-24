@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "reply-io-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/reply-io-automation",
+  "branch": "master",
+  "sha": "518f1b5fc73c202443ebe6e6bad2690fb3910ba8",
+  "source": "manual"
+}

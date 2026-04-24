@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "taxjar-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/taxjar-automation",
+  "branch": "master",
+  "sha": "db9870df3aedd8b57679bca3fee8ffa35ee6a289",
+  "source": "manual"
+}

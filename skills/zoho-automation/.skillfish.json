@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/zoho-automation",
+  "branch": "master",
+  "sha": "4457f8d5c62bdfa87ff6489371accd67d6847bbc",
+  "source": "manual"
+}

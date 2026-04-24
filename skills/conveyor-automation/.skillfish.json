@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conveyor-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/conveyor-automation",
+  "branch": "master",
+  "sha": "40272ecad2f05bc6a158a4f43178c44079d11ec1",
+  "source": "manual"
+}

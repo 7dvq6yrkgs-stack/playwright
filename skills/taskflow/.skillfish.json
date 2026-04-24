@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "taskflow",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/taskflow",
+  "branch": "main",
+  "sha": "71e7f62b72dd7ff80df069a81d9774d2d4222583",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "neutrino-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/neutrino-automation",
+  "branch": "master",
+  "sha": "b13c5d876190c759827dd32c29c99f7b122fda6f",
+  "source": "manual"
+}

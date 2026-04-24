@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "webex-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/webex-automation",
+  "branch": "master",
+  "sha": "12b759d4d23c758bd590d028222cc9bd5da339e4",
+  "source": "manual"
+}

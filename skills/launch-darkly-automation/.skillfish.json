@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "launch-darkly-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/launch-darkly-automation",
+  "branch": "master",
+  "sha": "b0cc1e371d7f6abe4e6d366f832e0499c9d32b6d",
+  "source": "manual"
+}

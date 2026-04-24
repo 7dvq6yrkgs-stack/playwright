@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dovetail-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dovetail-automation",
+  "branch": "master",
+  "sha": "cbeb683eab396fe99eb8024ab4f1d08b391d9012",
+  "source": "manual"
+}

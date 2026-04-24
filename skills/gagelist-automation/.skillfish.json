@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gagelist-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gagelist-automation",
+  "branch": "master",
+  "sha": "c56ab9b77ac373d650a4dd4bff7c168565c5f8bc",
+  "source": "manual"
+}

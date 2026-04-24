@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clawhub",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/clawhub",
+  "branch": "main",
+  "sha": "b76f2e1fa82a362a3d02ced160867986c1032932",
+  "source": "manual"
+}

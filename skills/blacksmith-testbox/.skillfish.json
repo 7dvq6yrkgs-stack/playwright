@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blacksmith-testbox",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/blacksmith-testbox",
+  "branch": "main",
+  "sha": "bfaa4b2fda1efb209131a113656a640fb0379ca4",
+  "source": "manual"
+}

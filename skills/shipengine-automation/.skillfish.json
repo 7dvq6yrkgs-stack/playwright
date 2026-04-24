@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shipengine-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/shipengine-automation",
+  "branch": "master",
+  "sha": "af9daea073177a055d4b10f67733d9a3ade6a129",
+  "source": "manual"
+}

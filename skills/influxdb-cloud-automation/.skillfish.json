@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "influxdb-cloud-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/influxdb-cloud-automation",
+  "branch": "master",
+  "sha": "25fdaa65717c6b38ebaf80aeed4e60ba6f1b38bf",
+  "source": "manual"
+}

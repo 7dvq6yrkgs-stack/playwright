@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "neon-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/neon-automation",
+  "branch": "master",
+  "sha": "15c21c8e6a28c10d97ff15d968ab14c43a41bd32",
+  "source": "manual"
+}

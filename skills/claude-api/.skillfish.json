@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-api",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/claude-api",
+  "branch": "main",
+  "sha": "50c0f9672b117a163d3069c8c52c8e113ad2754f",
+  "source": "manual"
+}

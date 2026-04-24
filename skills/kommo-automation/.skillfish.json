@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kommo-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/kommo-automation",
+  "branch": "master",
+  "sha": "588b338fc57ac2000e0900a5e5289bc58a913ede",
+  "source": "manual"
+}

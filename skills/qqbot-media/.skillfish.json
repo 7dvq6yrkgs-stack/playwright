@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qqbot-media",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/qqbot/skills/qqbot-media",
+  "branch": "main",
+  "sha": "8fc9c8b44ea847bfe1c119abcfa0dc4b41a11bc0",
+  "source": "manual"
+}

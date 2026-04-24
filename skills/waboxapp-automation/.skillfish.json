@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "waboxapp-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/waboxapp-automation",
+  "branch": "master",
+  "sha": "a65dd5c0d9ab48ada2961fae72deb98574a83119",
+  "source": "manual"
+}

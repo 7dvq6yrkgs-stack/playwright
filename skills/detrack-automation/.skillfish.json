@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detrack-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/detrack-automation",
+  "branch": "master",
+  "sha": "d4220e2bdda70a79fa49ca19375ac940bce448d2",
+  "source": "manual"
+}

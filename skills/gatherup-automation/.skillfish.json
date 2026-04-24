@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gatherup-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gatherup-automation",
+  "branch": "master",
+  "sha": "b15364a1e5d3681ba9b7dcdc1fd0b378fef6031a",
+  "source": "manual"
+}

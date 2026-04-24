@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browserbase-tool-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/browserbase-tool-automation",
+  "branch": "master",
+  "sha": "6cea3d6d2e91575fb66e36a6173ef4fac5dacc38",
+  "source": "manual"
+}

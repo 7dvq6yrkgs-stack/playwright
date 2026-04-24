@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codeinterpreter-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/codeinterpreter-automation",
+  "branch": "master",
+  "sha": "a5e3516529ea381b9d3bc7822d88c001dad9a0e9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailboxlayer-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mailboxlayer-automation",
+  "branch": "master",
+  "sha": "db38dc773e12e6e23af66025fc4d8fc21fdc5dbc",
+  "source": "manual"
+}

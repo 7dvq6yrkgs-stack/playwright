@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "token-metrics-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/token-metrics-automation",
+  "branch": "master",
+  "sha": "70a0a562582a3f4d5c92451ec85d477fcaaba877",
+  "source": "manual"
+}

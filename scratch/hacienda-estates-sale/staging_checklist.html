@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staging & Photography Guide — Space 194, Hacienda Estates</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #f8fafc;
+            --card: #ffffff;
+            --text: #0f172a;
+            --text-2: #475569;
+            --text-3: #94a3b8;
+            --accent: #7c3aed;
+            --accent-light: #ede9fe;
+            --green: #059669;
+            --green-light: #d1fae5;
+            --amber: #d97706;
+            --amber-light: #fef3c7;
+            --blue: #2563eb;
+            --blue-light: #dbeafe;
+            --border: #e2e8f0;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 40px 24px;
+        }
+
+        .container { max-width: 800px; margin: 0 auto; }
+
+        h1 { font-size: 2rem; font-weight: 800; text-align: center; margin-bottom: 8px; }
+        .subtitle { text-align: center; color: var(--text-2); margin-bottom: 40px; }
+
+        .phase {
+            margin-bottom: 40px;
+        }
+
+        .phase-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+
+        .phase-icon {
+            width: 44px;
+            height: 44px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+
+        .icon-purple { background: var(--accent-light); }
+        .icon-green { background: var(--green-light); }
+        .icon-amber { background: var(--amber-light); }
+        .icon-blue { background: var(--blue-light); }
+
+        .phase-header h2 { font-size: 1.25rem; font-weight: 700; }
+        .phase-header p { font-size: 0.85rem; color: var(--text-3); }
+
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px 24px;
+            margin-bottom: 12px;
+        }
+
+        .card h3 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--accent);
+        }
+
+        .card ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .card li {
+            padding: 6px 0;
+            padding-left: 20px;
+            position: relative;
+            font-size: 0.9rem;
+            color: var(--text-2);
+        }
+
+        .card li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: var(--green);
+            font-weight: 700;
+        }
+
+        .tip-card {
+            background: linear-gradient(135deg, var(--accent-light), var(--blue-light));
+            border: none;
+        }
+
+        .tip-card h3 { color: var(--accent); }
+
+        .photo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 12px;
+            margin-top: 12px;
+        }
+
+        .photo-item {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 14px;
+            text-align: center;
+        }
+
+        .photo-item .shot-number {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--accent);
+        }
+
+        .photo-item .shot-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text);
+            margin-top: 4px;
+        }
+
+        .photo-item .shot-detail {
+            font-size: 0.75rem;
+            color: var(--text-3);
+            margin-top: 4px;
+        }
+
+        .do-dont {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .do-box, .dont-box {
+            border-radius: 10px;
+            padding: 16px;
+        }
+
+        .do-box { background: var(--green-light); }
+        .dont-box { background: #fee2e2; }
+
+        .do-box h4 { color: #065f46; font-size: 0.85rem; margin-bottom: 8px; }
+        .dont-box h4 { color: #991b1b; font-size: 0.85rem; margin-bottom: 8px; }
+
+        .do-box li, .dont-box li {
+            font-size: 0.82rem;
+            color: var(--text-2);
+            padding: 3px 0;
+            list-style: none;
+        }
+
+        .do-box li::before { content: '✅ '; }
+        .dont-box li::before { content: '❌ '; }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+            font-size: 0.8rem;
+            color: var(--text-3);
+        }
+
+        @media (max-width: 600px) {
+            .do-dont { grid-template-columns: 1fr; }
+            .photo-grid { grid-template-columns: 1fr 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏠 Staging & Photography Guide</h1>
+        <p class="subtitle">Space 194, Hacienda Estates — Maximize your "pristine condition" advantage</p>
+
+        <!-- Phase 1: Interior Staging -->
+        <div class="phase">
+            <div class="phase-header">
+                <div class="phase-icon icon-purple">🪄</div>
+                <div>
+                    <h2>Phase 1: Interior Staging</h2>
+                    <p>Make every room feel spacious, clean, and inviting</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Declutter & Depersonalize</h3>
+                <ul>
+                    <li>Remove all family photos, personal memorabilia, and religious items</li>
+                    <li>Clear all countertops — kitchen, bathroom, and bedroom surfaces</li>
+                    <li>Remove excess furniture (if rooms feel tight, remove 1-2 pieces per room)</li>
+                    <li>Empty and organize all closets (show they're roomy — aim for 30% empty)</li>
+                    <li>Remove fridge magnets, sticky notes, and clutter from visible surfaces</li>
+                    <li>Rent a storage unit if needed — it's worth the $50–$100/month investment</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Deep Clean Everything</h3>
+                <ul>
+                    <li>Professional deep clean or DIY: floors, baseboards, light fixtures, vents</li>
+                    <li>Kitchen: degrease range hood, clean oven interior, polish sink and fixtures</li>
+                    <li>Bathrooms: remove hard water stains, recaulk tub/shower if needed, polish mirrors</li>
+                    <li>Windows: clean inside and out — natural light is your best friend</li>
+                    <li>Carpets: steam clean or shampoo (consider replacing if stained/worn)</li>
+                    <li>Eliminate odors: no pets, cooking smells, or air freshener overload</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Finishing Touches</h3>
+                <ul>
+                    <li>Add fresh white towels in bathrooms (rolled, not folded)</li>
+                    <li>Place a small vase of fresh flowers in kitchen and living room</li>
+                    <li>Use neutral-colored throw pillows and a cozy blanket on the couch</li>
+                    <li>Set the dining table for two (simple plates, napkins, wine glasses)</li>
+                    <li>Replace any burned-out light bulbs (use warm white, 2700K–3000K)</li>
+                    <li>Leave all lights ON and blinds OPEN for showings</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Phase 2: Curb Appeal -->
+        <div class="phase">
+            <div class="phase-header">
+                <div class="phase-icon icon-green">🌿</div>
+                <div>
+                    <h2>Phase 2: Curb Appeal</h2>
+                    <p>First impressions happen before buyers step inside</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Exterior Checklist</h3>
+                <ul>
+                    <li>Power wash siding, skirting, driveway, and walkways</li>
+                    <li>Paint or replace the front door (high ROI — consider a bold color like navy or charcoal)</li>
+                    <li>Add a new welcome mat and house numbers</li>
+                    <li>Place 2-3 potted plants flanking the entrance (geraniums, succulents work great in Lancaster heat)</li>
+                    <li>Mow lawn (or clean gravel/desert landscaping), trim bushes, pull weeds</li>
+                    <li>Remove trash bins, garden hoses, and clutter from view</li>
+                    <li>Check porch/deck for loose boards, peeling paint</li>
+                    <li>If there's a carport, make sure it's clean and free of storage</li>
+                    <li>Add solar pathway lights for evening curb appeal (under $20)</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Phase 3: Minor Repairs -->
+        <div class="phase">
+            <div class="phase-header">
+                <div class="phase-icon icon-amber">🔧</div>
+                <div>
+                    <h2>Phase 3: Quick-Win Repairs</h2>
+                    <p>Small fixes with big perceived-value impact</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>High-Impact Repairs (Under $500 Total)</h3>
+                <ul>
+                    <li>Fix leaky faucets (buyers notice immediately)</li>
+                    <li>Replace damaged outlet covers and light switch plates</li>
+                    <li>Tighten loose cabinet handles and drawer pulls</li>
+                    <li>Touch up paint on scuffed walls (keep a quart of matching paint)</li>
+                    <li>Fix sticking doors or drawers</li>
+                    <li>Replace cracked window screens</li>
+                    <li>Re-seal or replace worn weatherstripping</li>
+                    <li>Ensure all doors lock and unlock smoothly</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Phase 4: Photography -->
+        <div class="phase">
+            <div class="phase-header">
+                <div class="phase-icon icon-blue">📸</div>
+                <div>
+                    <h2>Phase 4: Photography</h2>
+                    <p>Photos sell homes — aim for 22–27 high-quality shots</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Photography Shot List</h3>
+                <div class="photo-grid">
+                    <div class="photo-item">
+                        <div class="shot-number">1-3</div>
+                        <div class="shot-label">Exterior</div>
+                        <div class="shot-detail">Front angle, front straight-on, side angle showing depth</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">4-6</div>
+                        <div class="shot-label">Living Room</div>
+                        <div class="shot-detail">Wide from 2 corners + 1 detail shot (fireplace, windows)</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">7-10</div>
+                        <div class="shot-label">Kitchen</div>
+                        <div class="shot-detail">Wide from entry, countertops, appliances, dining area</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">11-13</div>
+                        <div class="shot-label">Master Bedroom</div>
+                        <div class="shot-detail">Wide from doorway, closet open, en-suite if applicable</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">14-16</div>
+                        <div class="shot-label">Other Bedrooms</div>
+                        <div class="shot-detail">1-2 shots each from corner/doorway</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">17-19</div>
+                        <div class="shot-label">Bathrooms</div>
+                        <div class="shot-detail">1-2 shots each showing vanity, shower/tub</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">20-21</div>
+                        <div class="shot-label">Bonus Areas</div>
+                        <div class="shot-detail">Laundry, patio, carport, storage</div>
+                    </div>
+                    <div class="photo-item">
+                        <div class="shot-number">22-25</div>
+                        <div class="shot-label">Community</div>
+                        <div class="shot-detail">Pool, clubhouse, playground, street view</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Photography Technique Tips</h3>
+                <ul>
+                    <li>Shoot during the day (10am–2pm) for maximum natural light</li>
+                    <li>Turn ON all interior lights for every shot</li>
+                    <li>Open all blinds and curtains before shooting</li>
+                    <li>Always shoot in LANDSCAPE (horizontal) orientation</li>
+                    <li>Shoot from room CORNERS at chest height (not eye level — slightly lower makes rooms look bigger)</li>
+                    <li>Use a tripod or lean against a wall for sharp, blur-free images</li>
+                    <li>Remove yourself and pets from all reflective surfaces (mirrors, TVs, windows)</li>
+                    <li>Close all toilet lids before bathroom photos</li>
+                    <li>Use your phone's wide-angle lens if available (0.5x on most modern phones)</li>
+                    <li>Take 3-4 shots of each setup and pick the best one</li>
+                </ul>
+            </div>
+
+            <div class="do-dont">
+                <div class="do-box">
+                    <h4>✅ DO</h4>
+                    <ul>
+                        <li>Show depth (photograph at angles)</li>
+                        <li>Capture natural light streaming in</li>
+                        <li>Highlight upgrades & features</li>
+                        <li>Include community amenity photos</li>
+                        <li>Edit for brightness/contrast only</li>
+                    </ul>
+                </div>
+                <div class="dont-box">
+                    <h4>❌ DON'T</h4>
+                    <ul>
+                        <li>Shoot in portrait/vertical mode</li>
+                        <li>Include people or pets in shots</li>
+                        <li>Photograph clutter or mess</li>
+                        <li>Use heavy filters or HDR</li>
+                        <li>Shoot at night or in dim rooms</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tip Card -->
+        <div class="card tip-card">
+            <h3>💡 Pro Tip: Consider Virtual Staging</h3>
+            <ul>
+                <li>If any rooms are empty, use a virtual staging service ($25–$75 per photo) to digitally add furniture</li>
+                <li>Virtually staged photos get 3x more clicks on listing platforms</li>
+                <li>Always label virtually staged photos as "Virtually Staged" to comply with fair advertising</li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>Staging & Photography Guide • Space 194, Hacienda Estates • Prepared April 2026</p>
+        </div>
+    </div>
+</body>
+</html>

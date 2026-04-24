@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yandex-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/yandex-automation",
+  "branch": "master",
+  "sha": "21834b89a7d58ce7783a6c574a3bfe23c95de1db",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-api-key-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudflare-api-key-automation",
+  "branch": "master",
+  "sha": "a448d8c107d8d58e99cfa545229bd2cd97e4bb23",
+  "source": "manual"
+}

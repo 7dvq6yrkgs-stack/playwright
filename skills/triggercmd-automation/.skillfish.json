@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "triggercmd-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/triggercmd-automation",
+  "branch": "master",
+  "sha": "efa24a14a4bacbec4be578a2fe6c07aad3942a51",
+  "source": "manual"
+}

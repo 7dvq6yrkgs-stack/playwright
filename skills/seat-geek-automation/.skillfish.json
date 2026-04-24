@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seat-geek-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/seat-geek-automation",
+  "branch": "master",
+  "sha": "00b7d2adc8a662bb3f672e30e64abf63263657bf",
+  "source": "manual"
+}

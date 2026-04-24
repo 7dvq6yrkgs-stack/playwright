@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "goodbits-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/goodbits-automation",
+  "branch": "master",
+  "sha": "5871c4dc90eaf64c801e860bf3387e109dd7667b",
+  "source": "manual"
+}

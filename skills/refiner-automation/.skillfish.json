@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "refiner-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/refiner-automation",
+  "branch": "master",
+  "sha": "af3b988dba3b18fadeccefceabb6bc5c2f2d05b0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "livesession-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/livesession-automation",
+  "branch": "master",
+  "sha": "2d68e548a5631eab78b28e6d357f83883eec75bf",
+  "source": "manual"
+}

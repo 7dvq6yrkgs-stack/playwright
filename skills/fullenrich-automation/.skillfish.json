@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fullenrich-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/fullenrich-automation",
+  "branch": "master",
+  "sha": "5d2564670587c17cc2ab54c450f5c7bc673d2f66",
+  "source": "manual"
+}

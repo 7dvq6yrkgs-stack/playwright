@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "streamtime-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/streamtime-automation",
+  "branch": "master",
+  "sha": "8f154dc799336196853e31629e908ca2362bd206",
+  "source": "manual"
+}

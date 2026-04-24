@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emelia-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/emelia-automation",
+  "branch": "master",
+  "sha": "f42281d736205130321cdb9c60ffe9b2b8868e3d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ramp-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ramp-automation",
+  "branch": "master",
+  "sha": "d418d4b27b3f1d03f9c88693d69abe86b5ac0071",
+  "source": "manual"
+}

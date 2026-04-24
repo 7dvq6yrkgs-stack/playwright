@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-qa-testing",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-qa-testing",
+  "branch": "main",
+  "sha": "404fb24e816f7d84c3ff62ab7af312b06a879a65",
+  "source": "manual"
+}

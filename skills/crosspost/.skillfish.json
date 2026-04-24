@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crosspost",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/crosspost",
+  "branch": "main",
+  "sha": "544a1e59fc78d5b2a4ce65f71cd2bf103e41af23",
+  "source": "manual"
+}

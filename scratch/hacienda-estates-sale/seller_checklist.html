@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seller's Checklist — Manufactured Home Sale, California</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #fafbfc;
+            --card-bg: #ffffff;
+            --text: #1a202c;
+            --text-secondary: #4a5568;
+            --text-muted: #718096;
+            --accent: #2563eb;
+            --accent-light: #dbeafe;
+            --success: #059669;
+            --success-light: #d1fae5;
+            --warning: #d97706;
+            --warning-light: #fef3c7;
+            --danger: #dc2626;
+            --danger-light: #fee2e2;
+            --border: #e2e8f0;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 40px 24px;
+        }
+
+        .container { max-width: 800px; margin: 0 auto; }
+
+        .doc-header {
+            text-align: center;
+            margin-bottom: 48px;
+            padding-bottom: 32px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .doc-header h1 {
+            font-size: 2rem;
+            font-weight: 800;
+            color: var(--text);
+            margin-bottom: 8px;
+        }
+
+        .doc-header .subtitle {
+            font-size: 1rem;
+            color: var(--text-secondary);
+        }
+
+        .doc-header .meta {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-top: 8px;
+        }
+
+        .section {
+            margin-bottom: 36px;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        .section-number {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            background: var(--accent);
+            color: white;
+            border-radius: 50%;
+            font-weight: 700;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+
+        .section-header h2 {
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+
+        .checklist li {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 12px 16px;
+            margin-bottom: 4px;
+            border-radius: 8px;
+            transition: background 0.2s;
+        }
+
+        .checklist li:hover { background: #f7fafc; }
+
+        .checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border);
+            border-radius: 4px;
+            flex-shrink: 0;
+            margin-top: 2px;
+            cursor: pointer;
+        }
+
+        .checklist li strong {
+            color: var(--text);
+        }
+
+        .checklist li .detail {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .callout {
+            border-radius: 10px;
+            padding: 16px 20px;
+            margin: 16px 0;
+            font-size: 0.9rem;
+        }
+
+        .callout-info {
+            background: var(--accent-light);
+            border-left: 4px solid var(--accent);
+            color: #1e40af;
+        }
+
+        .callout-warning {
+            background: var(--warning-light);
+            border-left: 4px solid var(--warning);
+            color: #92400e;
+        }
+
+        .callout-danger {
+            background: var(--danger-light);
+            border-left: 4px solid var(--danger);
+            color: #991b1b;
+        }
+
+        .callout-success {
+            background: var(--success-light);
+            border-left: 4px solid var(--success);
+            color: #065f46;
+        }
+
+        .callout strong { display: block; margin-bottom: 4px; }
+
+        .contact-box {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .contact-box h4 {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .contact-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            font-size: 0.9rem;
+        }
+
+        .contact-item .label { color: var(--text-secondary); }
+        .contact-item .value { font-weight: 600; color: var(--text); }
+
+        .footer {
+            text-align: center;
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid var(--border);
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        @media print {
+            body { padding: 20px; }
+            .checklist li:hover { background: transparent; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="doc-header">
+            <h1>📋 Seller's Checklist</h1>
+            <div class="subtitle">Manufactured Home Sale — California (HCD Title Transfer)</div>
+            <div class="meta">Property: 2330 E Ave J8, Space 194, Lancaster, CA 93535 • Hacienda Estates</div>
+            <div class="meta">Prepared: April 22, 2026</div>
+        </div>
+
+        <!-- Section 1 -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-number">1</div>
+                <h2>Pre-Sale Preparation</h2>
+            </div>
+            <ul class="checklist">
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Locate your HCD Certificate of Title</strong>
+                        <div class="detail">This is the ownership document issued by the CA Dept. of Housing and Community Development. If lost, file Form HCD RT 480.4 (Application for Duplicate Certificate of Title).</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Locate your current Registration Card</strong>
+                        <div class="detail">If lost, file Form HCD RT 481.2 (Application for Duplicate Registration Card).</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Check your Registration Decal</strong>
+                        <div class="detail">Note if it starts with "L" (local tax) or "A" (in-lieu tax) — this determines which tax forms are needed at closing.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Verify title is clear of liens</strong>
+                        <div class="detail">Pay off any existing loans or liens. Contact your lender for a lien release/payoff statement.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Confirm all owners listed on title are available to sign</strong>
+                        <div class="detail">All registered owners must sign the Certificate of Title for transfer.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Contact Hacienda Estates management (Caritas Corporation)</strong>
+                        <div class="detail">Inform them of your intent to sell. Ask about: buyer approval process, transfer fees, current lot rent, and any park rules for resale.</div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="contact-box">
+                <h4>Key Contacts</h4>
+                <div class="contact-item">
+                    <span class="label">Hacienda Estates (Caritas Corp.)</span>
+                    <span class="value">(661) 945-1597</span>
+                </div>
+                <div class="contact-item">
+                    <span class="label">Email</span>
+                    <span class="value">haciendaestates@caritascorp.org</span>
+                </div>
+                <div class="contact-item">
+                    <span class="label">CA HCD Registration & Titling</span>
+                    <span class="value">(800) 952-8356</span>
+                </div>
+                <div class="contact-item">
+                    <span class="label">HCD Mailing Address</span>
+                    <span class="value">P.O. Box 277820, Sacramento, CA 95827-7820</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 2 -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-number">2</div>
+                <h2>Safety & Compliance Requirements</h2>
+            </div>
+            <ul class="checklist">
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Install/verify working smoke detectors</strong>
+                        <div class="detail">Required by California law before transfer. Test all units and replace batteries.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Install/verify carbon monoxide detectors</strong>
+                        <div class="detail">Required in all homes with gas appliances or attached garages.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Verify water heater is seismically braced</strong>
+                        <div class="detail">California requires all water heaters to be properly strapped/braced. This is checked on the transfer form.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Complete property disclosure of known defects</strong>
+                        <div class="detail">Disclose any known material defects, past repairs, water damage, pest issues, etc.</div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="callout callout-danger">
+                <strong>⚠️ Legal Requirement</strong>
+                Failure to disclose known defects can result in legal liability after the sale. Be thorough and honest in your disclosure statement.
+            </div>
+        </div>
+
+        <!-- Section 3 -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-number">3</div>
+                <h2>Required Documents for HCD Transfer</h2>
+            </div>
+            <ul class="checklist">
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Certificate of Title (original, signed by all owners)</strong>
+                        <div class="detail">This is the primary ownership document. Must be signed on the back by all listed owners.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Current Registration Card</strong>
+                        <div class="detail">Shows the home is currently registered in the state system.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Multi-Purpose Transfer Form (HCD RT 476.6G)</strong>
+                        <div class="detail">Documents the ownership transfer and includes safety compliance certifications (smoke/CO detectors, water heater bracing).</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Bill of Sale</strong>
+                        <div class="detail">Written contract signed by both buyer and seller with sale price, terms, and date.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Tax Documentation (one of the following):</strong>
+                        <div class="detail">
+                            <br>• <strong>If decal starts with "L":</strong> Tax Clearance Certificate from LA County Tax Collector<br>
+                            • <strong>If decal starts with "A":</strong> Form HCD RT 476.4 (Certification of Retail Value and Purchase Price)
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Lien release documentation (if applicable)</strong>
+                        <div class="detail">If there was a loan on the home, the lender must provide a lien release letter.</div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="callout callout-info">
+                <strong>ℹ️ Tip: Use a Mobile Home Escrow Company</strong>
+                Consider using a licensed escrow company that specializes in manufactured home transactions. They handle all paperwork, verify tax status, coordinate with the park, and ensure funds are securely transferred. This significantly reduces risk of errors.
+            </div>
+        </div>
+
+        <!-- Section 4 -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-number">4</div>
+                <h2>Park Approval Process (Hacienda Estates)</h2>
+            </div>
+            <ul class="checklist">
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Buyer submits residency application to Caritas Corporation</strong>
+                        <div class="detail">The park will conduct a credit check and background check on the prospective buyer.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Park management approves buyer for residency</strong>
+                        <div class="detail">This is required before the sale can be finalized. The park has the right to reject applicants.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Pay any park transfer fees</strong>
+                        <div class="detail">Ask management about any fees associated with the transfer of space occupancy.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Buyer signs new lot rental agreement with park</strong>
+                        <div class="detail">The buyer will enter into a new lease agreement for Space 194 directly with Caritas Corporation.</div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="callout callout-warning">
+                <strong>⚠️ Important: Timing</strong>
+                Do NOT submit HCD transfer paperwork until the park has approved the buyer. If the park rejects the buyer, you cannot complete the sale for that space.
+            </div>
+        </div>
+
+        <!-- Section 5 -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-number">5</div>
+                <h2>Closing & Title Transfer</h2>
+            </div>
+            <ul class="checklist">
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Execute Bill of Sale with buyer</strong>
+                        <div class="detail">Both parties sign. Include sale price, payment terms, and closing date.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Open escrow (recommended)</strong>
+                        <div class="detail">Funds are held securely until all conditions are met and paperwork is filed.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Obtain Tax Clearance Certificate</strong>
+                        <div class="detail">From LA County Tax Collector (if decal starts with "L"). Verify current property tax status.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Complete & sign HCD Multi-Purpose Transfer Form (RT 476.6G)</strong>
+                        <div class="detail">Both buyer and seller must sign. Certifies safety compliance.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Submit all documents + fees to HCD</strong>
+                        <div class="detail">Mail to: Registration and Titling, P.O. Box 277820, Sacramento, CA 95827-7820. Include filing fees (verify current amount with HCD).</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Hand over keys and close escrow</strong>
+                        <div class="detail">Once HCD confirms receipt and all conditions are met, funds are released and keys are transferred.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="checkbox"></div>
+                    <div>
+                        <strong>Cancel utilities in your name</strong>
+                        <div class="detail">Transfer or cancel electric, gas, water, internet, and any other services.</div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="callout callout-success">
+                <strong>✅ Congratulations!</strong>
+                Once the HCD processes the transfer and the buyer receives their new Certificate of Title, the sale is officially complete.
+            </div>
+        </div>
+
+        <div class="footer">
+            <p><strong>Disclaimer:</strong> This checklist is for informational purposes only and is not legal advice. 
+               Consult with a licensed real estate professional, attorney, or escrow company for your specific situation.</p>
+            <p style="margin-top: 8px;">Prepared by AI Agent • April 2026</p>
+        </div>
+    </div>
+</body>
+</html>

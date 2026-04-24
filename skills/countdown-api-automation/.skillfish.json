@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "countdown-api-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/countdown-api-automation",
+  "branch": "master",
+  "sha": "0d85f7306effb1028335e6a86868b7c3234348f9",
+  "source": "manual"
+}

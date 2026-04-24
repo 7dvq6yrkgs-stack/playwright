@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hookdeck-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/hookdeck-automation",
+  "branch": "master",
+  "sha": "5b1f41b87a7747fc30712e6b2c29961163e292ac",
+  "source": "manual"
+}

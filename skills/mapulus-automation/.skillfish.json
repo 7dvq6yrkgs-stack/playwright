@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mapulus-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mapulus-automation",
+  "branch": "master",
+  "sha": "e5f84c1e677e63ce066b474c8f3d0f28221d93b0",
+  "source": "manual"
+}

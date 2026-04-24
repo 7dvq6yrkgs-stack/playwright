@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pingdom-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/pingdom-automation",
+  "branch": "master",
+  "sha": "5ab5a985c428f9190acdb396f9c75f689588807f",
+  "source": "manual"
+}

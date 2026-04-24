@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documentation-lookup",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/documentation-lookup",
+  "branch": "main",
+  "sha": "0c16bc13c425bd29dd6100f60f69a1083abe4e76",
+  "source": "manual"
+}

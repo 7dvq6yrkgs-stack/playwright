@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jumpcloud-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/jumpcloud-automation",
+  "branch": "master",
+  "sha": "5a95d85f8fa38d1f7f09460fd7f988c98833537c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ahrefs-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ahrefs-automation",
+  "branch": "master",
+  "sha": "51bb99e7e13896a31cb32797498bf4309697ecaf",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gorgias-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gorgias-automation",
+  "branch": "master",
+  "sha": "335f1e1009e75ed5e02b83d5c7b2f8c00194d5ee",
+  "source": "manual"
+}

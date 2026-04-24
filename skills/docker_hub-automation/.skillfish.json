@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docker_hub-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/docker_hub-automation",
+  "branch": "master",
+  "sha": "b577357a0fd8bdb7d833df636969a54e1550b509",
+  "source": "manual"
+}

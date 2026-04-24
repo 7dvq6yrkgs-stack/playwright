@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parma-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/parma-automation",
+  "branch": "master",
+  "sha": "9a565348ef6d42b97e59fb598c676d8570b501cd",
+  "source": "manual"
+}

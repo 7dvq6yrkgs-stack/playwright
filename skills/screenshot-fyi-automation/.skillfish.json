@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "screenshot-fyi-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/screenshot-fyi-automation",
+  "branch": "master",
+  "sha": "145affc55a6a3f3e073fe8763dc7e64dd65be6ac",
+  "source": "manual"
+}

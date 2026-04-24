@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-scan",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": "docs/ja-JP/skills/security-scan",
+  "branch": "main",
+  "sha": "d16bac2d432e6289eb310f2415a08a9d74df8518",
+  "source": "manual"
+}

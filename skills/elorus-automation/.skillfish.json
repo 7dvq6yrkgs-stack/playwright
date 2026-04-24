@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "elorus-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/elorus-automation",
+  "branch": "master",
+  "sha": "10894cf6532dc92cff76299f47d14e93b073354e",
+  "source": "manual"
+}

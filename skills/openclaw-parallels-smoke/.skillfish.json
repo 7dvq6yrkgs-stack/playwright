@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-parallels-smoke",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-parallels-smoke",
+  "branch": "main",
+  "sha": "501e063048f08d9ea03b05b9c016def363deff8d",
+  "source": "manual"
+}

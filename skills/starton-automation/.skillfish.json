@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "starton-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/starton-automation",
+  "branch": "master",
+  "sha": "9adb7bb6c9081af44225380a72bf4975b84cdb39",
+  "source": "manual"
+}

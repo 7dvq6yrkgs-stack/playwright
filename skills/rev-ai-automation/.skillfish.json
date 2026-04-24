@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rev-ai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/rev-ai-automation",
+  "branch": "master",
+  "sha": "2de765df3609d0980920576ce8120f4659e409c4",
+  "source": "manual"
+}

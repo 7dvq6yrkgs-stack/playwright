@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "remove-bg-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/remove-bg-automation",
+  "branch": "master",
+  "sha": "ff00231c964beb5af33a8440cce800683a07b405",
+  "source": "manual"
+}

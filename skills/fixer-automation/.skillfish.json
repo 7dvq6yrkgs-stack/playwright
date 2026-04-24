@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fixer-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/fixer-automation",
+  "branch": "master",
+  "sha": "f537be3e6c1b6f0d4fab4f88a71dd5960c3ccfeb",
+  "source": "manual"
+}

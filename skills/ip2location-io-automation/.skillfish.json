@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ip2location-io-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ip2location-io-automation",
+  "branch": "master",
+  "sha": "877b34ee113c85c2ba5292eb34cb5b48a9efaec5",
+  "source": "manual"
+}

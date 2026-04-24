@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-address-validation-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/google-address-validation-automation",
+  "branch": "master",
+  "sha": "2ebba84ee735f76cbb2957c662f41b38f1621bae",
+  "source": "manual"
+}

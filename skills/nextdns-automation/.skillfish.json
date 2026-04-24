@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextdns-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/nextdns-automation",
+  "branch": "master",
+  "sha": "b6ff6af73cbca5db81598afb2e8bb3896661bb54",
+  "source": "manual"
+}

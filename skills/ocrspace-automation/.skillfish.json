@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ocrspace-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ocrspace-automation",
+  "branch": "master",
+  "sha": "431ba447dce4c53db30449a60596c72712502b84",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mem0-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mem0-automation",
+  "branch": "master",
+  "sha": "ad0d17623f567aa45fb5fe5a10998be9094579c7",
+  "source": "manual"
+}

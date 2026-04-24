@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "strava-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/strava-automation",
+  "branch": "master",
+  "sha": "afb932f4cb98ed6773c5282c0e70fb000482bc27",
+  "source": "manual"
+}

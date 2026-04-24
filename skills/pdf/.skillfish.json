@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdf",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "document-skills/pdf",
+  "branch": "master",
+  "sha": "f3e7babdd8d9cc8b5627311c16e07f1218c39bff",
+  "source": "manual"
+}

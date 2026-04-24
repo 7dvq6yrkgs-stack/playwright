@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gender-api-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/gender-api-automation",
+  "branch": "master",
+  "sha": "ddd1d22174cb742624d3df07bc9f37272df5eb20",
+  "source": "manual"
+}

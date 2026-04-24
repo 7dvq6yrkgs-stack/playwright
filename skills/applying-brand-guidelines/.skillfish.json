@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "applying-brand-guidelines",
+  "owner": "anthropics",
+  "repo": "claude-cookbooks",
+  "path": "skills/custom_skills/applying-brand-guidelines",
+  "branch": "main",
+  "sha": "fd803cbb90dd92eb3ead2798ac69e650ab6a13da",
+  "source": "manual"
+}

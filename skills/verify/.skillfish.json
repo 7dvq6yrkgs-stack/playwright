@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "verify",
+  "owner": "facebook",
+  "repo": "react",
+  "path": ".claude/skills/verify",
+  "branch": "main",
+  "sha": "34f69a61c3ad7a4473c46238b8e3a3516a0bfd02",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "braintree-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/braintree-automation",
+  "branch": "master",
+  "sha": "ed2406d96e8d1a52ee31413f999136f60404298f",
+  "source": "manual"
+}

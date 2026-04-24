@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "worksnaps-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/worksnaps-automation",
+  "branch": "master",
+  "sha": "19e4ae35b6c2e8820898c502afb5f518fc4a832c",
+  "source": "manual"
+}

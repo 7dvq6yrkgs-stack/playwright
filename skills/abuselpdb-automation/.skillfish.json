@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "abuselpdb-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/abuselpdb-automation",
+  "branch": "master",
+  "sha": "a10d349d5f93e39c1930571d11c406c8b8e80d90",
+  "source": "manual"
+}

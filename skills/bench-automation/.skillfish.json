@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bench-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bench-automation",
+  "branch": "master",
+  "sha": "34da86c99d5a66689f8e46ce3c02031541bd7cb5",
+  "source": "manual"
+}

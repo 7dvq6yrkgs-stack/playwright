@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blocknative-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/blocknative-automation",
+  "branch": "master",
+  "sha": "57bf865236d10e60934f07fc170b8090938c429b",
+  "source": "manual"
+}

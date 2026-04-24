@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "survey_monkey-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/survey_monkey-automation",
+  "branch": "master",
+  "sha": "339d3da9ba433345145e7e42f54100b8eeddf635",
+  "source": "manual"
+}

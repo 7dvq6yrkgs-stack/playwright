@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "langbase-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/langbase-automation",
+  "branch": "master",
+  "sha": "9ceedb3f8896dfaacd3b736c79c53cd4bd80501c",
+  "source": "manual"
+}

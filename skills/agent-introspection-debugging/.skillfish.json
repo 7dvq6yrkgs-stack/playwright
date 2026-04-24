@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-introspection-debugging",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/agent-introspection-debugging",
+  "branch": "main",
+  "sha": "42841926553ddca438c972d11262a70734ee80c6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "exist-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/exist-automation",
+  "branch": "master",
+  "sha": "cc46c97d4caa9664ad6ad0a8db316c47da8ce481",
+  "source": "manual"
+}

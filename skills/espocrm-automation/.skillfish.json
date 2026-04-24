@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "espocrm-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/espocrm-automation",
+  "branch": "master",
+  "sha": "d224b16ddaf2e23029b27c6d43898f0effbdfe9c",
+  "source": "manual"
+}

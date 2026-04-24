@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "xero-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/xero-automation",
+  "branch": "master",
+  "sha": "e9cf663433efc247123874a872610d0607f3b93c",
+  "source": "manual"
+}

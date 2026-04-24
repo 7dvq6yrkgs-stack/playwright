@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customerio-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/customerio-automation",
+  "branch": "master",
+  "sha": "00cf6a86b7035f18f993097abc83246d73716274",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "statuscake-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/statuscake-automation",
+  "branch": "master",
+  "sha": "f016e68c36e2a6132b374f1c3074fd13ba680b3b",
+  "source": "manual"
+}

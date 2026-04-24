@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eval-harness",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/eval-harness",
+  "branch": "main",
+  "sha": "671c03cc45bfb0e8da42fcd8f343be8b5a099e98",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "formdesk-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/formdesk-automation",
+  "branch": "master",
+  "sha": "90756601c815b7c942035de814f3d57660d524a3",
+  "source": "manual"
+}

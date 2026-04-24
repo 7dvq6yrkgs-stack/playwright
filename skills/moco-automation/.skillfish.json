@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moco-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/moco-automation",
+  "branch": "master",
+  "sha": "db16f67b359ad0592fce020f0a84ccedb09edc27",
+  "source": "manual"
+}

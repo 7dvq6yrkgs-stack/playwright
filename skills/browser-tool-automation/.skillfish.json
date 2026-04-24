@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browser-tool-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/browser-tool-automation",
+  "branch": "master",
+  "sha": "ee567f3014f5dad8c8b4752ab883db80e9de6383",
+  "source": "manual"
+}

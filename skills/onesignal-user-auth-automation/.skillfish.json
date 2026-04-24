@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onesignal-user-auth-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/onesignal-user-auth-automation",
+  "branch": "master",
+  "sha": "93c28ee469ecefbeb0b49732e456403913ad535a",
+  "source": "manual"
+}

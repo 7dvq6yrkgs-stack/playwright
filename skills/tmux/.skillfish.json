@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tmux",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "skills/tmux",
+  "branch": "main",
+  "sha": "fbe4ae65e40c15f85dd89af25c6351758853e0da",
+  "source": "manual"
+}

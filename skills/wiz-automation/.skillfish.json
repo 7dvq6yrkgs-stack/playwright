@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wiz-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/wiz-automation",
+  "branch": "master",
+  "sha": "263ff78e5ff8494d9518bfe433ff22b3ba738bcc",
+  "source": "manual"
+}

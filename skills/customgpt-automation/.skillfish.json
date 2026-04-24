@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customgpt-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/customgpt-automation",
+  "branch": "master",
+  "sha": "096baff4f6d2e25ae1c304ec10b9e25b202bcc77",
+  "source": "manual"
+}

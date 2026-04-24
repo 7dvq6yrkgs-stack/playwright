@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "x-api",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "path": ".agents/skills/x-api",
+  "branch": "main",
+  "sha": "08a8e29f4a8f6493867e415eac1e96b0b2bbd2a7",
+  "source": "manual"
+}

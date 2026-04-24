@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wiki-maintainer",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/memory-wiki/skills/wiki-maintainer",
+  "branch": "main",
+  "sha": "834a813bee1c495a9c910978722218e1b236d8b2",
+  "source": "manual"
+}

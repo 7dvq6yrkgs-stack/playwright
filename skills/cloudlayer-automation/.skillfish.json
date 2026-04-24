@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudlayer-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cloudlayer-automation",
+  "branch": "master",
+  "sha": "2bf62172cba027b239d9d905f76ee414c7209994",
+  "source": "manual"
+}

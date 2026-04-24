@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-builder",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "mcp-builder",
+  "branch": "master",
+  "sha": "9c9fbb074c330f020812ac0abdf42ad107bf2cba",
+  "source": "manual"
+}

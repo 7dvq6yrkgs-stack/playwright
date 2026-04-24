@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onedesk-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/onedesk-automation",
+  "branch": "master",
+  "sha": "341504bc63cfac64e1d5aa94bbd2fb63f916558b",
+  "source": "manual"
+}

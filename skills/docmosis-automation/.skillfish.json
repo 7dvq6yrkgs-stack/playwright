@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docmosis-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/docmosis-automation",
+  "branch": "master",
+  "sha": "ff8421d3f9a3dc09d9206cbfd73f7383d5a70301",
+  "source": "manual"
+}

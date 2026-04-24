@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dpd2-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/dpd2-automation",
+  "branch": "master",
+  "sha": "dea3264f310493b8b14f1dbae07d932d874a7a09",
+  "source": "manual"
+}

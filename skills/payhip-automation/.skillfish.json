@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "payhip-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/payhip-automation",
+  "branch": "master",
+  "sha": "b2a05a3bca75faf65a2b274be5391bd259169fd0",
+  "source": "manual"
+}

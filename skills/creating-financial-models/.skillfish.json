@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "creating-financial-models",
+  "owner": "anthropics",
+  "repo": "claude-cookbooks",
+  "path": "skills/custom_skills/creating-financial-models",
+  "branch": "main",
+  "sha": "45aca10fce06a734db4a10460ed5b8033c6b79b6",
+  "source": "manual"
+}

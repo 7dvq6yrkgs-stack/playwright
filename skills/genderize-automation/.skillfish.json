@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "genderize-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/genderize-automation",
+  "branch": "master",
+  "sha": "206a6f275eb0dc8c68ef83d52ea956992468d665",
+  "source": "manual"
+}

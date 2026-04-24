@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-test-heap-leaks",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": ".agents/skills/openclaw-test-heap-leaks",
+  "branch": "main",
+  "sha": "cb14e3f041ac24f8cfd434235eb916c8c96d742d",
+  "source": "manual"
+}

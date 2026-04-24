@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "forcemanager-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/forcemanager-automation",
+  "branch": "master",
+  "sha": "5700b282a278889e6d4ed4a61fc94e160c63d751",
+  "source": "manual"
+}

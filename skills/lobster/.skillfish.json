@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lobster",
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "path": "extensions/lobster",
+  "branch": "main",
+  "sha": "18998f1a26e35ac611e3cb534c7b293ed648504c",
+  "source": "manual"
+}

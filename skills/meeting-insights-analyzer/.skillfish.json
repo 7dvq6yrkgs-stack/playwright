@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meeting-insights-analyzer",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "meeting-insights-analyzer",
+  "branch": "master",
+  "sha": "b80111f3d59933667bb5728848903bad3f5487d8",
+  "source": "manual"
+}

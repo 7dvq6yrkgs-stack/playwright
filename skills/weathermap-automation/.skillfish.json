@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "weathermap-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/weathermap-automation",
+  "branch": "master",
+  "sha": "46336cc96d032b7f184d7547a4c5e3c61291de60",
+  "source": "manual"
+}

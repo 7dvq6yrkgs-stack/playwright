@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "algolia-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/algolia-automation",
+  "branch": "master",
+  "sha": "8045c0186405dc85de6c8aa97c42893d3f1f1337",
+  "source": "manual"
+}

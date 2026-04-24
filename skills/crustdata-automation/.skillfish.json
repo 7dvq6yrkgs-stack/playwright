@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crustdata-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/crustdata-automation",
+  "branch": "master",
+  "sha": "3e52653a8ce3e869fcb79924c94291263530f99a",
+  "source": "manual"
+}

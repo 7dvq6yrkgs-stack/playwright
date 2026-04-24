@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "affinda-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/affinda-automation",
+  "branch": "master",
+  "sha": "5c10cd4d9b82114823ec7b842dba6aa555659110",
+  "source": "manual"
+}

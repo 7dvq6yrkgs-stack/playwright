@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bugherd-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bugherd-automation",
+  "branch": "master",
+  "sha": "aa5d6243fb80ea91c3a8128defa055d09f1cf5f5",
+  "source": "manual"
+}

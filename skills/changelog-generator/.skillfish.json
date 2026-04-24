@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "changelog-generator",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "changelog-generator",
+  "branch": "master",
+  "sha": "72258d6496ccd708fb946591d944282d6de03f13",
+  "source": "manual"
+}

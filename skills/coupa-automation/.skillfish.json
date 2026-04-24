@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coupa-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/coupa-automation",
+  "branch": "master",
+  "sha": "57a3b95a74a360486ad5d4f182e545ff5e298c4e",
+  "source": "manual"
+}

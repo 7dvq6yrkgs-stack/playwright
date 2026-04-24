@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "factorial-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/factorial-automation",
+  "branch": "master",
+  "sha": "d6a49f8ab98523060a017106501849c0439d272e",
+  "source": "manual"
+}

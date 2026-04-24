@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho_inventory-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/zoho_inventory-automation",
+  "branch": "master",
+  "sha": "99294a5e2150d076c656df48aa664071416161f1",
+  "source": "manual"
+}

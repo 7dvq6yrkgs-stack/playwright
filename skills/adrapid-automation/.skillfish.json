@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adrapid-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/adrapid-automation",
+  "branch": "master",
+  "sha": "7ca3991c08b8dba757b996dbf84f85e93c116ebd",
+  "source": "manual"
+}

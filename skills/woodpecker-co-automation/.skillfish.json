@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "woodpecker-co-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/woodpecker-co-automation",
+  "branch": "master",
+  "sha": "8dcaec83e5e3016b83bce0e570ff06bd17b1469b",
+  "source": "manual"
+}

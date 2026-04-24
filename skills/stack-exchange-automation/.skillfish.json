@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stack-exchange-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/stack-exchange-automation",
+  "branch": "master",
+  "sha": "c3ca6b14066d848fdb525bb4f05b78c2bd5e323e",
+  "source": "manual"
+}

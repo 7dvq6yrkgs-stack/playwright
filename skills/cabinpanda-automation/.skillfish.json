@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cabinpanda-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/cabinpanda-automation",
+  "branch": "master",
+  "sha": "e392749dff5da4f8771eb936d98db7b9d6c51dae",
+  "source": "manual"
+}

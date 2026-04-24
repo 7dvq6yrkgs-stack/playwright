@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "snowflake-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/snowflake-automation",
+  "branch": "master",
+  "sha": "8bc6cccc99c16589c82827bf180e6b47699cf46f",
+  "source": "manual"
+}

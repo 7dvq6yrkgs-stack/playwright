@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "baserow-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/baserow-automation",
+  "branch": "master",
+  "sha": "9ba3788712c968be6b80b3960e1cc34b0d666513",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "encodian-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/encodian-automation",
+  "branch": "master",
+  "sha": "6dc6e92c0aed1178326ed8fa1678b20439e6dfd1",
+  "source": "manual"
+}

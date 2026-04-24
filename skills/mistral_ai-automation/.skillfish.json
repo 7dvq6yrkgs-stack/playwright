@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mistral_ai-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/mistral_ai-automation",
+  "branch": "master",
+  "sha": "daa14beaedc8dd822926386018685f9de5619e79",
+  "source": "manual"
+}

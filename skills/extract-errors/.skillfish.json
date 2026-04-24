@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extract-errors",
+  "owner": "facebook",
+  "repo": "react",
+  "path": ".claude/skills/extract-errors",
+  "branch": "main",
+  "sha": "3043f0e340ac0a1c53be536608a67f34c93dba13",
+  "source": "manual"
+}

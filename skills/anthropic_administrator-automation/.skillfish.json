@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anthropic_administrator-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/anthropic_administrator-automation",
+  "branch": "master",
+  "sha": "7f8f494690fe74dd1180a98ecbb740cdcd999ad6",
+  "source": "manual"
+}

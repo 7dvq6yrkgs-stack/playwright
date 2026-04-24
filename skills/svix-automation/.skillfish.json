@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "svix-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/svix-automation",
+  "branch": "master",
+  "sha": "d271a33f07984f3b35c137d3a32874ceb95e9d8a",
+  "source": "manual"
+}

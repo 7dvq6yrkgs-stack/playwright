@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "addresszen-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/addresszen-automation",
+  "branch": "master",
+  "sha": "39f2bd3c584fe437d909ff072fb184db29c27b67",
+  "source": "manual"
+}

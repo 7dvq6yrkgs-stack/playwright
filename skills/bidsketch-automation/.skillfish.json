@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bidsketch-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/bidsketch-automation",
+  "branch": "master",
+  "sha": "50e01b396058eea30b06ac64178230e5073a73e1",
+  "source": "manual"
+}

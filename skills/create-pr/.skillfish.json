@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-pr",
+  "owner": "n8n-io",
+  "repo": "n8n",
+  "path": ".claude/plugins/n8n/skills/create-pr",
+  "branch": "master",
+  "sha": "d8005bc04b60fa3fb9b1712864a4b08d964f5660",
+  "source": "manual"
+}

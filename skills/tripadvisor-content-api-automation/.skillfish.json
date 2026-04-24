@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tripadvisor-content-api-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/tripadvisor-content-api-automation",
+  "branch": "master",
+  "sha": "e1618c8506c2189a09320489f51331777a41d162",
+  "source": "manual"
+}

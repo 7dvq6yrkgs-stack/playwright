@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ambee-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/ambee-automation",
+  "branch": "master",
+  "sha": "dc2340d09214fea27b513c7ecfb2dd4295534ab3",
+  "source": "manual"
+}

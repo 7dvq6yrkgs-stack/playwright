@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wati-automation",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "path": "composio-skills/wati-automation",
+  "branch": "master",
+  "sha": "16a6eb3cfe59b17c5b42ab061ab7ddd04b619b2d",
+  "source": "manual"
+}
